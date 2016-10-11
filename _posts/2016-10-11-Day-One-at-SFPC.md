@@ -1,10 +1,5 @@
 ---
 layout: post
-title: First Day at SFPC
----
-
----
-layout: post
 title:  "First Day of SFPC Fall 2016 Session"
 date:   2016-10-10 16:34:24 -0400
 categories: SFPC
