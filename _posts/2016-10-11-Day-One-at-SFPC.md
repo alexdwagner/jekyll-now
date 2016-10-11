@@ -125,4 +125,4 @@ All in all a great first day. I took notes on paper but I intend to take more pi
 
 Looking forward to tomorrow, which is a "bootcamp" with [Ida C. Benedetto](http://uncommonplaces.com).
 
-Goodnight.
+Goodnight!
