@@ -15,8 +15,8 @@ Here are some iPhone pics from the party:
 
 ![Panorama from the top of a three-story structure in Pioneer Works' backyard](/images/IMG_4127.JPG)
 
-<a href="#"><img src="/images/IMG_4132.JPG" align="left" width="200" ></a>
-<a href="#"><img src="/images/IMG_4133.JPG" align="left" width="200" ></a>
+<a href="#"><img src="/images/IMG_4132.JPG" align="left" width="200" style="image-orientation: 90deg;"></a>
+<a href="#"><img src="/images/IMG_4133.JPG" align="left" width="200" style="image-orientation: 90deg;"></a>
 
 <!-- ![Drawing from art collective Ant Farm plans for "Time Capsule"](/images/IMG_4132.JPG =250x)
 ![Drawing from art collective Ant Farm plans for "Time Capsule"](/images/IMG_4133.JPG =250x)
