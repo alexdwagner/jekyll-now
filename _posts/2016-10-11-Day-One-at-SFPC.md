@@ -90,7 +90,7 @@ After that, Taeyoon said he had a surprise for us, but that we'd have to wait.
 
 The school was nice enough to order lunch for us, but it actually was delayed in getting there, so we got our surprise early - it was a trip to the roof of the Westbeth building!
 
-<Pano image of the Westbeth building>
+![Panorama of the view from the top of the Westbeth building](/images/IMG_4150.JPG)
 
 It was an incredible view. I hope to spend some time up there and maybe even take
 my parents there when they come to visit.
@@ -108,7 +108,7 @@ apparently Sarajevo has a very active civic-hacking community, as does Istanbul.
 When we came back from lunch, Mushon was a robot. For future attendees of SFPC,
 I don't want to spoil the group activity, but I will share a picture. We had a good time.
 
-<Mushon Robot Pic>
+![Mushon is a robot.](images/IMG_4153.JPG)
 
 After that, we went back to the class room and had a discussion about learning.
 Mushon posed the question, "If you could learn anything instantly, what would be good about that process and what would be bad about it?".
