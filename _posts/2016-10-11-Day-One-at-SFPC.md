@@ -124,3 +124,5 @@ Everyone was pretty tired by the end of the day, especially Taeyoon, who had jus
 All in all a great first day. I took notes on paper but I intend to take more pictures and to use audio and video to document my time at SFPC.
 
 Looking forward to tomorrow, which is a "bootcamp" with [Ida C. Benedetto](http://uncommonplaces.com).
+
+Goodnight.
