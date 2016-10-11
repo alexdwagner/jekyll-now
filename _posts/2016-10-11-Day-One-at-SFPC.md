@@ -7,15 +7,19 @@ categories: SFPC
 
 Today was our first day at SFPC.
 
-Let me start from the beginning.
+Let me start from the beginning, which is actually Sunday, the day before class began.
 
-On Sunday, I went to Pioneer Works Second Sundays monthly party and had a blast.
-Ran into a few friends, new and old, saw a great band, had a few drinks,
-walked around inside a massive inflatable, met artist, Sam Lavigne, as well as Dave Sheinkopf, who runs the tech lab on the third floor of Pioneer Works.
+On Sunday, I went to the Pioneer Works Second Sundays monthly party and had a blast. Ran into a few friends, new and old, saw a great band, had a few drinks, walked around inside a massive inflatable, met artist, [Sam Lavigne](lav.io), as well as Dave Sheinkopf, who runs the tech lab on the third floor of Pioneer Works.
+
+Here are some iPhone pics from the party:
+
+![Panorama from the top of a three-story structure in Pioneer Works' backyard](/images/IMG_4127.JPG/)
+![Drawing from art collective Ant Farm plans for "Time Capsule"](/images/IMG_4132.JPG/)
+![Drawing from art collective Ant Farm plans for "Time Capsule"](/images/IMG_4133.JPG/)
+
+[[vimeo-{https://vimeo.com/186469526}-{720}x{480}]]
 
 <!---
-<Pioneer Works pics>
-
 <3d model of self scanned at tech lab>
 -->
 
@@ -37,16 +41,16 @@ I get to the bus to find out that it's a $6.50 express bus that takes you up the
 highway, into the Financial District. I didn't request my stop in time so I ended up
 getting off at around 30th street and 3rd avenue.
 
-I walked from there to Greenwich Village in about an hour. I'd estimate 20-25 blocks.
+I walked from there to Greenwich Village in about an 40 minutes. I'd estimate 20-25 blocks.
 
-As I was walking up, there's a guy in front of me wearing a dope blue Northface jacket,
-dope corduroy bucket hat, and dope grey space-age fabric designer backpack.
+As I was walking up, there's a guy in front of me wearing a dope, blue Northface jacket,
+an equally dope corduroy bucket hat, and an also-dope grey space-age fabric designer backpack.
 
 It's about 9:30am and as I arrive at the entrance he's standing there, pondering
 whether to go in.
 
-"Hi, are you going to SFPC?", I ask the man.
-"Yes! SFPC! I am Hiro."
+*"Hi, are you going to SFPC?", I ask the man.
+"Yes! SFPC! I am Hiro."*
 
 I introduce myself and suggest we backtrack to go get coffee, as I felt like I
 was dying from lack of caffeine, and that way we could time our entrance.
@@ -73,21 +77,15 @@ to why that is, yet. I was glad to make his acquaintance.
 
 Taeyoon asked us to cut large sheets of butcher paper and to answer three questions:
 
-What do you want SFPC to be?
-What do you hope to learn at SFPC?
-What do you hope to make at SFPC?
+* What do you want SFPC to be?
+* What do you hope to learn at SFPC?
+* What do you hope to make at SFPC?
 
 He gave us 20 minutes and I took my work outside. I was sunny and cool. Very nice weather, San Francisco weather.
 
-We posted our sheets and conversed and read each others' answers. A very diverse range
-of interests.
+We posted our sheets and conversed and read each others' answers. A very diverse range of interests.
 
-Taeyoon asked us what answers we had in common, even if it was just with one other person. An interest in music seemed to be a constant in the group. AI and Deep Learning
-was another. Live coding, Katrina Allrick, another classmate was interested in and
-Ruby Childs(also classmate)suggested checking out a group called Algorave that
-does cool things with music and live coding. Baku and I are both interested in video
-production. Bryan and Medhir were interested in working with microorganisms and
-electricity.
+Taeyoon asked us what answers we had in common, even if it was just with one other person. An interest in music seemed to be a constant in the group. AI and Deep Learning was another. Live coding, Katrina(classmate) was interested in and Ruby(also classmate)suggested checking out a group called [Algorave](www.algorave.com) that does cool things with music and live coding. Baku and I are both interested in video production. Bryan and Medhir(more classmates) were interested in working with microorganisms and electricity.
 
 After that, Taeyoon said he had a surprise for us, but that we'd have to wait.
 
@@ -98,9 +96,7 @@ The school was nice enough to order lunch for us, but it actually was delayed in
 It was an incredible view. I hope to spend some time up there and maybe even take
 my parents there when they come to visit.
 
-We came back to class and our guest for the day showed up, Mushon Zer Aviv, who
-is a designer, educator, and media activist who works the mediums of data, networks, and culture. It was a treat because I was actually lucky enough to attend a workshop
-about thinking about networks creatively that Mushon gave with Ingrid Burrington and Surya Mattu at Eyebeam the previous Saturday.
+We came back to class and our guest for the day showed up, Mushon Zer Aviv, who is a designer, educator, and media activist who works the mediums of data, networks, and culture. It was a treat because I was actually lucky enough to attend a workshop about thinking about networks creatively that Mushon gave with Ingrid Burrington and Surya Mattu at Eyebeam the previous Saturday.
 
 Our food arrived and everyone eventually sorted whose burrito was whose and we moved
 outside to sit in the courtyard of Westbeth. I spoke with Mushon and asked him
@@ -108,8 +104,7 @@ questions about what other arts + tech scenes are like around the world and he
 was kind enough to converse with me and answer my questions. For instance,
 apparently Sarajevo has a very active civic-hacking community, as does Istanbul.
 
-When we came back from lunch, Mushon was a robot. For future attendees of SFPC,
-I don't want to spoil the group activity, but I will share a picture. We had a good time.
+When we came back from lunch, Mushon was a robot. For future attendees of SFPC, I don't want to spoil the group activity, but I will share a picture. We had a good time.
 
 ![Mushon is a robot.](/images/IMG_4153.JPG)
 
@@ -124,6 +119,6 @@ Everyone was pretty tired by the end of the day, especially Taeyoon, who had jus
 
 All in all a great first day. I took notes on paper but I intend to take more pictures and to use audio and video to document my time at SFPC.
 
-Looking forward to tomorrow, which is a "bootcamp" with Lauren Gardner.
+Looking forward to tomorrow, which is a "bootcamp" with [Ida C. Benedetto](http://uncommonplaces.com).
 
 It's 11:30 and I am exhausted. Goodnight!
