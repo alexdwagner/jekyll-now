@@ -14,16 +14,17 @@ On Sunday, I went to the Pioneer Works Second Sundays monthly party and had a bl
 Here are some iPhone pics from the party:
 
 ![Panorama from the top of a three-story structure in Pioneer Works' backyard](/images/IMG_4127.JPG)
-![Drawing from art collective Ant Farm plans for "Time Capsule"](/images/IMG_4132.JPG)
-![Drawing from art collective Ant Farm plans for "Time Capsule"](/images/IMG_4133.JPG)
+![Drawing from art collective Ant Farm plans for "Time Capsule"](/images/IMG_4132.JPG = 250x)
+![Drawing from art collective Ant Farm plans for "Time Capsule"](/images/IMG_4133.JPG = 250x)
 
-[[vimeo-{https://vimeo.com/186469526}-{1280}x{720}]]
+[Outside the giant inflatable at Pioneer Works Second Sundays](https://vimeo.com/186469526)
+[Inside the giant inflatable at Pioneer Works Second Sundays](https://vimeo.com/186469525)
 
 <!---
 <3d model of self scanned at tech lab>
 -->
 
-I palled around until 10pm, and then they kicked us out.
+Palled around until 10pm, and then they kicked us out.
 
 Rode my bike home from Red Hook to Ditmas Park. Got home, got ready for bed, tucked myself in and I-Just-Could-Not-Sleep!
 
