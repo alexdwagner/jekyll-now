@@ -11,16 +11,19 @@ Let me start from the beginning, which is actually Sunday, the day before class 
 
 On Sunday, I went to the Pioneer Works Second Sundays monthly party and had a blast. Ran into a few friends, new and old, saw a great band, had a few drinks, walked around inside a massive inflatable, met artist, [Sam Lavigne](lav.io), as well as Dave Sheinkopf, who runs the tech lab on the third floor of Pioneer Works.
 
-Here are some iPhone pics from the party:
+Here's a view from outside, at the beginning of the event:
 
+<!---
 <a href="#"><img src="/images/IMG_4132.JPG" align="left" width="200" style="image-orientation: 90deg;"></a>
 <a href="#"><img src="/images/IMG_4133.JPG" align="left" width="200" style="image-orientation: 90deg;"></a>
+-->
 
 ![Panorama from the top of a three-story structure in Pioneer Works' backyard](/images/IMG_4127.JPG)
 
 <!-- ![Drawing from art collective Ant Farm plans for "Time Capsule"](/images/IMG_4132.JPG =250x)
 ![Drawing from art collective Ant Farm plans for "Time Capsule"](/images/IMG_4133.JPG =250x)
 -->
+Here's a view from the inside:
 
 [Outside the giant inflatable at Pioneer Works Second Sundays](https://vimeo.com/186469526)
 
@@ -54,7 +57,7 @@ It's about 9:30am and as I arrive at the entrance he's standing there, pondering
 "Yes! SFPC! I am Hiro."*
 
 I introduce myself and suggest we backtrack to go get coffee, as I felt like, after my epic commute, I
-was dying from a lack of caffeine. 
+was dying from a lack of caffeine.
 
 We walk, chatting, getting acquainted. Hiro lives in Tokyo, in the
 Shibuya district. I gush effusively about Japan. We buy our coffees and I am
@@ -121,5 +124,3 @@ Everyone was pretty tired by the end of the day, especially Taeyoon, who had jus
 All in all a great first day. I took notes on paper but I intend to take more pictures and to use audio and video to document my time at SFPC.
 
 Looking forward to tomorrow, which is a "bootcamp" with [Ida C. Benedetto](http://uncommonplaces.com).
-
-It's 11:30 and I am exhausted. Goodnight!
