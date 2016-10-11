@@ -13,29 +13,23 @@ On Sunday, I went to the Pioneer Works Second Sundays monthly party and had a bl
 
 Here are some iPhone pics from the party:
 
-![Panorama from the top of a three-story structure in Pioneer Works' backyard](/images/IMG_4127.JPG/)
-![Drawing from art collective Ant Farm plans for "Time Capsule"](/images/IMG_4132.JPG/)
-![Drawing from art collective Ant Farm plans for "Time Capsule"](/images/IMG_4133.JPG/)
+![Panorama from the top of a three-story structure in Pioneer Works' backyard](/images/IMG_4127.JPG)
+![Drawing from art collective Ant Farm plans for "Time Capsule"](/images/IMG_4132.JPG)
+![Drawing from art collective Ant Farm plans for "Time Capsule"](/images/IMG_4133.JPG)
 
-[[vimeo-{https://vimeo.com/186469526}-{720}x{480}]]
+[[vimeo-{https://vimeo.com/186469526}-{1280}x{720}]]
 
 <!---
 <3d model of self scanned at tech lab>
 -->
 
-
 I palled around until 10pm, and then they kicked us out.
 
-Rode my bike home from Red Hook to Ditmas Park. Got home, got ready for bed,
-tucked myself in and I-Just-Could-Not-Sleep!
+Rode my bike home from Red Hook to Ditmas Park. Got home, got ready for bed, tucked myself in and I-Just-Could-Not-Sleep!
 
-So I was tired in the morning and actually woke up early as well(must've been
-excited or something, although mostly I just felt tired).
+So I was tired in the morning and actually woke up early as well(must've been excited or something, although mostly I just felt tired).
 
-Ditmas Park is at least an hour away from Greenwich Village. Too far for any sane
-person to bike on Monday morning. So I was to choose from either the F train, which
-was experiencing "significant delays" or the bus. I packed my lunch, laced my boots,
-and headed for the bus stop.
+Ditmas Park is at least an hour away from Greenwich Village, by bike or train or bus. Too far for any sane person to bike on Monday morning. So I was to choose from either the F train, which was experiencing "significant delays" or the bus. I packed my lunch, laced my boots, and headed for the bus stop.
 
 I get to the bus to find out that it's a $6.50 express bus that takes you up the
 highway, into the Financial District. I didn't request my stop in time so I ended up
@@ -43,19 +37,17 @@ getting off at around 30th street and 3rd avenue.
 
 I walked from there to Greenwich Village in about an 40 minutes. I'd estimate 20-25 blocks.
 
-As I was walking up, there's a guy in front of me wearing a dope, blue Northface jacket,
-an equally dope corduroy bucket hat, and an also-dope grey space-age fabric designer backpack.
+As I was walking up the street, there's a guy in front of me, walking in the same direction, wearing a really cool blue Northface jacket, an equally dope corduroy bucket hat, and an also-dope grey space-age fabric designer backpack.
 
-It's about 9:30am and as I arrive at the entrance he's standing there, pondering
-whether to go in.
+It's about 9:30am and as I arrive at the entrance he's standing there, pondering whether to go in.
 
 *"Hi, are you going to SFPC?", I ask the man.
 "Yes! SFPC! I am Hiro."*
 
-I introduce myself and suggest we backtrack to go get coffee, as I felt like I
-was dying from lack of caffeine, and that way we could time our entrance.
+I introduce myself and suggest we backtrack to go get coffee, as I felt like, after my epic commute, I
+was dying from a lack of caffeine. 
 
-We walk to get coffee, chatting, getting acquainted. Hiro is lives in Tokyo, in the
+We walk, chatting, getting acquainted. Hiro lives in Tokyo, in the
 Shibuya district. I gush effusively about Japan. We buy our coffees and I am
 very glad to have something warm and energizing to drink.
 
@@ -63,7 +55,7 @@ We get to class and we are the 2nd and 3rd students there. Taeyoon is sitting at
 head of the table. Hiro and I introduce ourselves to Jason, seated to our left.
 
 More students start to trickle in, we introduce ourselves. I finally get to meet Baku,
-who I will be rooming with in Bed Stuy, along with Dannie Wei and Agustin Ramos Anzorena.
+who I will be rooming with in Bed Stuy, along with Dannie and Agustin.
 We have been corresponding for the past few weeks to coordinate and book our Airbnb
 for the length of the SFPC session.
 
@@ -71,7 +63,7 @@ I'd been hanging out with Agustin since last week, and had known Dannie from ITP
 in June, so I was glad to finally meet the fourth member of our temporary household.
 
 Taeyoon brought the class to attention. We went around the room and introduced ourselves.
-I was glad to meet Robbie Kraft, who is TAing for Taeyoon and is also from Dallas, TX.
+I was glad to meet Robby Kraft, who is TAing for Taeyoon and is also from Dallas, TX.
 Texas people always seem to find each other in NYC and I haven't formulated a theory as
 to why that is, yet. I was glad to make his acquaintance.
 
