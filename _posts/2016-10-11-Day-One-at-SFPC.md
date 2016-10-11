@@ -13,9 +13,12 @@ On Sunday, I went to Pioneer Works Second Sundays monthly party and had a blast.
 Ran into a few friends, new and old, saw a great band, had a few drinks,
 walked around inside a massive inflatable, met artist, Sam Lavigne, as well as Dave Sheinkopf, who runs the tech lab on the third floor of Pioneer Works.
 
+<!---
 <Pioneer Works pics>
 
 <3d model of self scanned at tech lab>
+-->
+
 
 I palled around until 10pm, and then they kicked us out.
 
@@ -108,7 +111,7 @@ apparently Sarajevo has a very active civic-hacking community, as does Istanbul.
 When we came back from lunch, Mushon was a robot. For future attendees of SFPC,
 I don't want to spoil the group activity, but I will share a picture. We had a good time.
 
-![Mushon is a robot.](images/IMG_4153.JPG)
+![Mushon is a robot.](/images/IMG_4153.JPG)
 
 After that, we went back to the class room and had a discussion about learning.
 Mushon posed the question, "If you could learn anything instantly, what would be good about that process and what would be bad about it?".
