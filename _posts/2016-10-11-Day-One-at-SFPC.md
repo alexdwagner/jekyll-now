@@ -14,8 +14,8 @@ On Sunday, I went to the Pioneer Works Second Sundays monthly party and had a bl
 Here are some iPhone pics from the party:
 
 ![Panorama from the top of a three-story structure in Pioneer Works' backyard](/images/IMG_4127.JPG)
-![Drawing from art collective Ant Farm plans for "Time Capsule"](/images/IMG_4132.JPG = 250x)
-![Drawing from art collective Ant Farm plans for "Time Capsule"](/images/IMG_4133.JPG = 250x)
+![Drawing from art collective Ant Farm plans for "Time Capsule"](/images/IMG_4132.JPG =250x)
+![Drawing from art collective Ant Farm plans for "Time Capsule"](/images/IMG_4133.JPG =250x)
 
 [Outside the giant inflatable at Pioneer Works Second Sundays](https://vimeo.com/186469526)
 [Inside the giant inflatable at Pioneer Works Second Sundays](https://vimeo.com/186469525)
