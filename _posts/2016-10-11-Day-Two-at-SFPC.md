@@ -5,7 +5,7 @@ date:   2016-10-10 16:34:24 -0400
 categories: SFPC
 ---
 
-Today was our second day at SFPC.
+Today was our second day at SFPC. We created our own "code of conduct" and talked about documentation with [Ida C. Benedetto](http://uncommonplaces.com).
 
 ![Panorama of "three questions posters".](/images/10112016/IMG_4159.JPG)
 
