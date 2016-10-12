@@ -64,7 +64,7 @@ I mean, just learning how to use git in the most basic of ways today has been in
 
 
 
-We spent the first part of the day creating a code of conduct for our class. Taeyoon says that every SFPC class does this - makes up their own code of conduct from scratch. Granted we had his input and experience to guide us but it was a very enjoyable experience, for myself and, it seemed, the class as well.
+We spent the first part of the day creating a [code of conduct for our class](https://paper.dropbox.com/doc/Code-of-Conduct-i3cbzTf34JakSkCUd0J5c). Taeyoon says that every SFPC class does this - makes up their own code of conduct from scratch. Granted we had his input and experience to guide us but it was a very enjoyable experience, for myself and, it seemed, the class as well.
 
 After that, Ida arrived at class and talked to us for an hour or so about documentation and shared her documentation process for journaling and creative projects.
 
