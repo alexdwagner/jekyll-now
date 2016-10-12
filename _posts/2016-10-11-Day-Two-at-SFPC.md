@@ -7,7 +7,7 @@ categories: SFPC
 
 Today was our second day at SFPC.
 
-![Panorama of "three questions posters".](/images/IMG_xxxx.JPG)
+![Panorama of "three questions posters".](/images/IMG_4159.JPG)
 
 First, Taeyoon's homework assignment:
 
@@ -18,11 +18,12 @@ In class today, he asked us to create a blog post and share it to Medium, answer
 * What Do I Want to Make?
 
 My poster:
-![My poster.](/images/IMG_xxxx.JPG)
+![My poster.](/images/IMG_4160.JPG)
 
 My answers:
 
 What Do I Want SFPC to Be?
+
 --------------------------
 
 I want SFPC to be a place where a lot of (positive) formative experiences are had. They don't even have to be all mine. I want SFPC to be a place where it's ok to go with your gut. I want everyone to be comfortable with each other and I want us to learn together and collaborate.
@@ -35,6 +36,7 @@ There's no doubt that things will get made, ideas will be generated, and everyon
 
 
 What Do I Want to Make?
+
 -----------------------
 
 Mostly, friendships and connections. I am still working out what my artistic practice even is. I know that I can produce photographs, writing, and videos, for and about my time here at SFPC. I intend to do that, but I enjoy code and physical computing as well.
@@ -46,6 +48,7 @@ I wasn't sure when I got here, but now I plan to stay in NYC for the long haul. 
 
 
 What Do I Want to Learn?
+
 ------------------------
 
 Soft skills as applied to working in the arts and tech. How to collaborate, how to connect.
@@ -56,7 +59,7 @@ I can always learn to code. My approach to code is entirely project-based, but I
 
 I mean, just learning how to use git in the most basic of ways today has been incredibly rewarding. I look forward to the learning experiences to come here at SFPC. Which is an understatement but also the plain truth.
 
-
+----------------------------------
 
 
 
@@ -68,8 +71,6 @@ After that, Ida arrived at class and talked to us for an hour or so about docume
 Here's a link to her slides:
 
 [Ida's Slides on Documentation Methods for Creative Projects and Life](https://paper.dropbox.com/doc/Documentation-Overview-zjVWZJc4rpjR6DHJSoL62)
-
----
 
 I also recorded most of her talk using my iPhone's Voice Memos app:
 
