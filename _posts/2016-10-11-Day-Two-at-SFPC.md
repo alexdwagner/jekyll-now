@@ -7,7 +7,7 @@ categories: SFPC
 
 Today was our second day at SFPC. We created our own "code of conduct" and talked about documentation with [Ida C. Benedetto](http://uncommonplaces.com).
 
-![Panorama of "three questions posters".](/images/10112016/IMG_4159.JPG)
+![Panorama of "three questions posters".](/images/IMG_4159.JPG)
 
 First, Taeyoon's homework assignment:
 
@@ -18,7 +18,7 @@ In class today, he asked us to create a blog post and share it to Medium, answer
 * What Do I Want to Make?
 
 My poster:
-![My poster.](/images/10112016/IMG_4160.JPG)
+![My poster.](/images/IMG_4160.JPG)
 
 My answers:
 
