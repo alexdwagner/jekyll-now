@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Second Day of SFPC: Code of Conduct, Documentation"
-date:   2016-11-10 16:34:24 -0400
+title:  "SFPC: Day 02 - Code of Conduct, Documentation"
+date:   2016-10-11 16:34:24 -0400
 categories: SFPC, Ida C. Benedetto, documentation
 ---
 

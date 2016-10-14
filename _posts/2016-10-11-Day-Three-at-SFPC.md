@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Third Day of SFPC: Managing Creative Projects"
+title:  "SFPC: Day 03 - Managing Creative Projects"
 date:   2016-10-12 16:34:24 -0400
 categories: SFPC, Lauren Gardner, project management, creative projects, managing creative projects
 ---
