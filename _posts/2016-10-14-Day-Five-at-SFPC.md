@@ -19,7 +19,7 @@ At 10am this morning, a few of us arrived for an Open Frameworks workshop initia
 
 For our first Ofx sketch, we did this:
 
-![Robby Kraft's OF Workshop Sketch Projection Example](/images/textRain_hiro.gif)
+![Robby Kraft's OF Workshop Sketch Projection Example](/images/textRain_robby.gif)
 
 For our second one, we did this:
 
