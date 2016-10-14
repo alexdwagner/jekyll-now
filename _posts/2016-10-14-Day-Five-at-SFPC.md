@@ -75,6 +75,6 @@ Looking forward to tomorrow, which is a Saturday! Moving into a new place with D
 Good day!!
 
 ------
-[Code from the Open Frameworks workshop]: [ofapp.h](http://pastebin.com/qbXSqCuK), [ofapp.cpp](http://pastebin.com/LMz2rQHb)
+**Code from the Open Frameworks workshop:** [ofapp.h](http://pastebin.com/qbXSqCuK), [ofapp.cpp](http://pastebin.com/LMz2rQHb)
 
-[Paper Notes for the Day]
+**[Paper Notes for the Day](https://www.dropbox.com/s/tjhlhoe6938u7a4/IMG_4221.JPG?dl=0)**
