@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "First Day of SFPC Fall 2016 Session"
+title:  "SFPC: Day 01 - Fall 2016 Session"
 date:   2016-10-10 16:34:24 -0400
-categories: SFPC
+categories: SFPC, Taeyoon Choi
 ---
 
 Today was our first day at SFPC.
