@@ -5,13 +5,13 @@ date:   2016-10-14 14:16:00 -0400
 categories: SFPC, Robby Kraft, Open Frameworks, git, Hiro Nakamura, project idea
 ---
 
-Today was our fifth day at SFPC. It was an off day but our TA, [Robby Kraft](www.robbykraft.com) was kind enough to lead a really great Open Frameworks workshop with some of us today.
+Today was our fifth day at SFPC. It was an off day but our TA, [Robby Kraft](www.robbykraft.com) was kind enough to lead a really great [Open Frameworks](http://openframeworks.cc/) workshop with some of us today.
 
 ![Impromptu Open Frameworks workshop at SFPC](/images/IMG_4215.JPG)
 
 ------
 
-Last night I went to [Babycastles](http://www.babycastles.com/) for the first time. Two of the people in game collective Kokoromi were celebrating the Playstation 4 of their VR game Hypercube, which had been almost a decade in the making. Also, Lauren Gardner was there and showed some of us Hack Manhattan's space, which is connected to the same floor as Babycastles.
+Last night I went to [Babycastles](http://www.babycastles.com/) for the first time. Two of the people in game collective [Kokoromi](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiYgu6Jp9vPAhUGPT4KHaxLDnMQ6F4IJDAB&url=https%3A%2F%2Ftwitter.com%2FKOKOROMI%3Fref_src%3Dtwsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor&usg=AFQjCNGFmpMOmdmV9y91YzScBoO5HzW-SQ&sig2=b1h_KTJWfsQYtWda5Db2RQ) were celebrating the Playstation 4 of their VR game [Super Hypercube](http://superhypercube.com/), which had been almost a decade in the making. Also, Lauren Gardner was there and showed some of us [Hack Manhattan's](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwi4pezDp9vPAhXGHD4KHWMuDGwQFggdMAA&url=https%3A%2F%2Fhackmanhattan.com%2F&usg=AFQjCNE30eUdtwCuasTeucARJxU2lajsWQ&sig2=eNnGAVJAdF2CwN4eNOM3aA&bvm=bv.135974163,d.cWw) space, which is connected to the same floor as Babycastles.
 
 ![Image from Babycastles.](/images/IMG_4202.JPG)
 
