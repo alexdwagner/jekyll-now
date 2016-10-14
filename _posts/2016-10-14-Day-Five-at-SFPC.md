@@ -15,17 +15,16 @@ Last night I went to [Babycastles](http://www.babycastles.com/) for the first ti
 
 ![Image from Babycastles.](/images/IMG_4202.JPG)
 
+--------
+
 At 10am this morning, a few of us arrived for an Open Frameworks workshop initially suggested by Ruby. It took a minute to get Ofx installed on everyone's machines.
 
-For our first Ofx sketch, we did this:
+We created a sketch called "Text Rain", in the workshop:
 
 ![Robby Kraft's OF Workshop Sketch Projection Example](/images/textRain_robby.gif)
-
-For our second one, we did this:
-
 ![Hiro Nakamura OF Workshop Sketch Projection](/images/textRain_hiro.gif)
 
-Summation: I can *finally* run and (somewhat)debug a project in Open Frameworks. This is a wonderful feeling.
+**Summation:** I can *finally* run and (somewhat)debug a project in Open Frameworks. This is a wonderful feeling.
 
 **Project Idea:** I'd like to build a Raspberry Pi camera that incorporates some of this Open Frameworks computer vision stuff. Robby said that he had a project like that when he was a student at SFPC last year.
 
