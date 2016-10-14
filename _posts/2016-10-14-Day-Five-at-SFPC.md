@@ -2,7 +2,7 @@
 layout: post
 title:  "SFPC: Day 05 - Open Frameworks Workshop, Troubleshooting git"
 date:   2016-10-14 14:16:00 -0400
-categories: SFPC, Robby Kraft, Open Frameworks, git, Hiro Nakamura, project idea
+categories: SFPC, Robby Kraft, Open Frameworks, git, Hiro Nakamura, project idea, command line, rotate image, EXIF
 ---
 
 Today was our fifth day at SFPC. It was an off day but our TA, [Robby Kraft](www.robbykraft.com) was kind enough to lead a really great [Open Frameworks](http://openframeworks.cc/) workshop with some of us today.
