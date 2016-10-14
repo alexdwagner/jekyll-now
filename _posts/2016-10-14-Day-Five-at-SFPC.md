@@ -17,7 +17,7 @@ Last night I went to [Babycastles](http://www.babycastles.com/) for the first ti
 
 --------
 
-At 10am this morning, a few of us arrived for an Open Frameworks workshop initially suggested by Ruby. It took a minute to get Ofx installed on everyone's machines.
+At 10am this morning, a few of us arrived for an Open Frameworks workshop initially suggested by Ruby. It took a bit to get Ofx installed on everyone's machines, but that's usually how workshops go. Some of us decided to pair program and we got started.
 
 We created a sketch called "Text Rain", in the workshop:
 
