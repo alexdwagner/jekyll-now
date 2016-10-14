@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Second Day of SFPC: Code of Conduct, Documentation"
-date:   2016-10-10 16:34:24 -0400
-categories: SFPC
+date:   2016-11-10 16:34:24 -0400
+categories: SFPC, Ida C. Benedetto, documentation
 ---
 
 Today was our second day at SFPC. We created our own "code of conduct" and talked about documentation with [Ida C. Benedetto](http://uncommonplaces.com).
@@ -52,6 +52,11 @@ What Do I Want to Learn?
 ------------------------
 
 Soft skills as applied to working in the arts and tech. How to collaborate, how to connect.
+
+I plan to stay in New York for at least a few years, so I don't feel any mad rush to create anything extreme. But that doesn't mean I'm going to be lazy - far from it.
+
+--------
+--------
 
 I enjoyed the heck out of [Ida C. Benedetto's](http://uncommonplaces.com) bootcamp on documentation today(more on that below).
 
