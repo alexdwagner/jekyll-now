@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "SFPC: Day 06 - Anxiety and Exhaustion"
+title:  "SFPC: Day 06 - Bitforms Gallery, Open House New York"
 date:   2016-10-15 15:54:00 -0400
-categories: SFPC, Bitforms, Chelsea Open Studios, Zach Lieberman, Casey Reas, Margaret Atwood, Open House NYC, Ramsey Nasser
+categories: SFPC, Bitforms, Chelsea Open Studios, Zach Lieberman, Casey Reas, Margaret Atwood, Open House NYC, Ramsey Nasser, Bitforms Gallery
 ---
 
 Today is a Saturday. Rode my bike from Ditmas Park in Brooklyn, across Manhattan Bridge, and to the Bitforms gallery on the Lower East Side, to see Casey Reas' exhibition, which they are taking down this weekend.
@@ -35,6 +35,12 @@ I think Zach Lieberman's(SFPC co-founder) recent work is an interesting contrast
 ![Open House NYC](/images/IMG_4280.JPG)
 ![Open House NYC](/images/IMG_4281.JPG)
 ![Open House NYC](/images/IMG_4295.JPG)
+
+-----
+
+Also, Medhir(classmate) got a laser engraver machine. P. neat. Was up and running in no time, although there is still some dialing in to do, I believe. He is going to use it to print circuits onto fabric for a project that's he working on.
+
+[Medhir and his engraver](/images/IMG_4296.JPG)
 
 -----
 
