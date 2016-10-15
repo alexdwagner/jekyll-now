@@ -5,7 +5,7 @@ date:   2016-10-15 15:54:00 -0400
 categories: SFPC, Bitforms, Chelsea Open Studios, Zach Lieberman, Casey Reas, Margaret Atwood, Open House NYC, Ramsey Nasser, Bitforms Gallery
 ---
 
-Today is a Saturday. Rode my bike from Ditmas Park in Brooklyn, across Manhattan Bridge, and to the Bitforms gallery on the Lower East Side, to see Casey Reas' exhibition, which they are taking down this weekend.
+Today is a Saturday. Rode my bike from Ditmas Park in Brooklyn, across Manhattan Bridge, and to the Bitforms gallery on the Lower East Side, to see [Casey Reas' exhibition](http://www.bitforms.com/artists/reas), which they are taking down this weekend.
 
 [Inside of Bitforms Gallery, Casey Reas' Work](/images/IMG_4242.JPG)
 
