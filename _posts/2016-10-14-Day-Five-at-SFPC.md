@@ -66,6 +66,8 @@ You can use this command in the terminal:
 
 Now to do some freelance work and then go home.
 
+One last thing to mention is that I met [Dan Shiffman](https://shiffman.net) today! He was recording a live stream tutorial for his [Coding Rainbow channel](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwihr9ni-N3PAhWGOz4KHd_OBDsQFggpMAA&url=http%3A%2F%2Fcodingrainbow.com%2F&usg=AFQjCNHdpl-aKFD2f8jMXWpwhpncDu1_zg&sig2=3qpFfzrilTCRPQoI-OuorQ&bvm=bv.135974163,d.cWw) on Youtube and he was nice enough to chat with us for 10 minutes or so. He will be here next Tuesday and said he would give us a tour of his video setup here at SFPC.
+
 ---
 
 **For lunch:** Salmon Teriyaki at Sushi West with Bryan and Ruby. We talked about Japan, possible projects we are considering, and weekend plans.
