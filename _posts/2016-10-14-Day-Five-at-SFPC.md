@@ -22,9 +22,12 @@ At 10am this morning, a few of us arrived for an Open Frameworks workshop initia
 We created a sketch called "Text Rain", in the workshop:
 
 ![Robby Kraft's OF Workshop Sketch Projection Example](/images/textRain_robby.gif)
+
+My classmate Hiroshi took it a step further and added some finesse. [You can find the code for his version of the sketch here.](https://github.com/5up-okamura/of-sketch-bouncing-text)
+
 ![Hiro Nakamura OF Workshop Sketch Projection](/images/textRain_hiro.gif)
 
-**Summation:** I can *finally* run and (somewhat)debug a project in Open Frameworks. This is a wonderful feeling.
+**Summation:** And so - I can *finally* run and (somewhat)debug a project in Open Frameworks. This is a wonderful feeling.
 
 **Project Idea:** I'd like to build a Raspberry Pi camera that incorporates some of this Open Frameworks computer vision stuff. Robby said that he had a project like that when he was a student at SFPC last year.
 
