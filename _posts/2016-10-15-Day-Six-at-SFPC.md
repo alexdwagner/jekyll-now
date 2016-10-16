@@ -41,7 +41,7 @@ I think Zach Lieberman's(SFPC co-founder) recent work is an interesting contrast
 
 Also, Medhir(classmate) got a laser engraver machine. P. neat. Was up and running in no time, although there is still some dialing in to do, I believe. He is going to use it to print circuits onto fabric for a project that's he working on.
 
-![Medhir and his engraver](/images/IMG_4296.JPG)
+![Medhir and his engraver](/images/IMG_4296ps.JPG)
 
 -----
 
