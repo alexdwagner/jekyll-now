@@ -32,10 +32,10 @@ I think Zach Lieberman's(SFPC co-founder) recent work is an interesting contrast
 ![Open House NYC](/images/IMG_4274.JPG)
 ![Open House NYC](/images/IMG_4277.JPG)
 
-![Open House NYC](/images/IMG_4279.JPG)
-![Open House NYC](/images/IMG_4280.JPG)
-![Open House NYC](/images/IMG_4281.JPG)
-![Open House NYC](/images/IMG_4295.JPG)
+![Open House NYC](/images/IMG_4279_ps.JPG)
+![Open House NYC](/images/IMG_4280_ps.JPG)
+![Open House NYC](/images/IMG_4281_ps.JPG)
+![Open House NYC](/images/IMG_4295_ps.JPG)
 
 -----
 
