@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SFPC: Day 07 - Sunday, Walking around Ditmas Park and Flatbush, Project Ideas, Moving, Jamaican Jerk Chicken"
+title:  "SFPC: Day 07 - Sunday, Walking Ditmas Park/Flatbush, Project Ideas, Moving to Bed Stuy"
 date:   2016-10-16 15:54:00 -0400
 categories: weekend, walking, music, Brooklyn, food
 ---
