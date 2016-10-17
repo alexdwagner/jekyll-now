@@ -64,4 +64,4 @@ I also hope the train is close. Where I am now, in Ditmas, the train is like 10-
 
 **Dinner:** Dannie, Agustin, and I went to [Rowe's](https://www.yelp.com/biz/rowes-restaurant-brooklyn?osq=best+jerk+chicken), a Jamaican jerk chicken place in Bed Stuy. It was good.
 
-![Dannie and Agustin jerk chicken](/images/IMG_4375 .JPG)
+![Dannie and Agustin jerk chicken](/images/IMG_4375.JPG)
