@@ -34,7 +34,7 @@ We talked about [von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann), t
 
 We also taked about abstraction and repetition in computing.
 
-![Taeyoon slide - "abstraction and repetition in computing"](/images/IMG_levelsOfAb.jpg)
+![Taeyoon slide - "abstraction and repetition in computing"](/images/levelsOfAb.jpg)
 
 -----
 
