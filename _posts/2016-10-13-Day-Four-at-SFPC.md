@@ -25,9 +25,13 @@ I look forward to reading her new book as well:
 
 ---
 
+Ingrid gave us homework: keep a computation diary. She left it up to us to decide what this means. Maybe I will do mine about my relationship with the [MacOS Terminal](https://en.wikipedia.org/wiki/Terminal_(macOS)).
+
+---
+
 For lunch: fried chicken, mashed potatos and pasta salad from the DAG grocery store around the corner.
 
-For dinner: ?. Thinking about buying a microwave for SFPC. Would be convenient and good for saving $$$$.
+For dinner: ?. Thinking about buying a microwave for SFPC. Would be convenient and good for saving moneyyyy.
 
 Looking forward to tomorrow, which is an off day.
 
