@@ -38,15 +38,19 @@ We also taked about abstraction and repetition in computing.
 
 -----
 
-My first day as an Eyebeam intern tonight, taking photos and video for their Stop Work! event, which is a group critique that is open to the public. It was fun.
+My first day as an Eyebeam intern tonight, taking photos and video for their [Stop Work!](http://eyebeam.org/events/stop-work-1/) event, which is a group critique they offer to participating artists.
 
-Today has been exhausting, as I had to get up early to move the rest of my stuff from Ditmas Park to Bed Stuy. This morning: a train from Clinton Hill to Ditmas Park, an express bus from Ditmas to Wall Street, and a train from Wall Street to Greenwich Village. Plus about 30 blocks of walking. Tired!
+It was fun. I really like the people that I'm working with, and I enjoy being at the space. It's kind of peaceful actually. It's such a large, well-windowed space. Every time I go there I feel like I am catching some of the breath back that New York has exacted from me.
 
-------
-
-Here's a picture from the Eyebeam event. I also recorded audio of the three presentations, for which I will add a dropbox link soon.
+Here's a picture from the event. I also recorded audio of the three presentations, for which I will add a dropbox link soon.
 
 ![Eyebeam Stop Work! wide shot](/images/IMG_4419.JPG)
+
+-----
+
+**10PM:**
+
+Today has been exhausting, as I had to get up early to move the rest of my stuff from Ditmas Park to Bed Stuy. This morning: a train from Clinton Hill to Ditmas Park, an express bus from Ditmas to Wall Street, and a train from Wall Street to Greenwich Village. Plus about 30 blocks of walking. Tired!
 
 -----
 
