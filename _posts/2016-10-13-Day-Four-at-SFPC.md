@@ -9,7 +9,7 @@ Today was our fourth day at SFPC. We were with [Ingrid Burrington](http://lifewi
 
 Tired today.
 
-Commute is long. Stayed up too late. Glad to be moving to Bed Stuy this weekend - it will be a better train and a shorter walk to the train station.
+Long commute is long. Stayed up too late. Glad to be moving to Bed Stuy this weekend - it will be a better train and a shorter walk to the train station.
 
 I enjoyed Ingrid's session with us today. She espouses that the internet *is* a physical thing. Even code exists on a material basis.
 
