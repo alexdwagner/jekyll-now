@@ -1,63 +1,38 @@
 ---
 layout: post
-title:  "SFPC: Day 08 - Taeyoon’s Class: Politics and Computation, Interning @ Eyebeam - “Stop Work!”"
+title:  "SFPC: Day 09 - Off-Day: Blogs, Homework, Other Things"
 date:   2016-10-17 20:00:00 -0400
-categories: Taeyoon, politics and computation, eyebeam
+categories: blog, homework, meet the students, jekyll
 ---
 
-Today marks the start of a new week. Taeyoon taught the first session of his "Politics of Computation" class. It's a critical theory class concerning the biases and culture of computation.
+Sweet, merciful off-day. How sweet the sound.
 
-![Taeyoon board](/images/IMG_4409.JPG)
+Still working, but no class. Time to catch up on blog posts, assignments, and prepare for "Meet the Students!" tomorrow. Maybe even dig into a little bit of coding.
 
-*Today was a day*. Woke up in Clinton Hill, took the train to Ditmas Park to grab my things, then took an express bus and then another train to SFPC carrying maybe 25lbs of my belongings.
+![An image](/images/IMG_4444.JPG)
 
-One highlight of my epic trek to South Brooklyn and back was the mosaic art at the Christopher St. station of the 1 train.
+Look at the little doggy on the back of the bike!
 
-![Christopher St. Mosaic](/images/IMG_4401.JPG)
-![Christopher St. Mosaic](/images/IMG_4393.JPG)
-![Christopher St. Mosaic](/images/IMG_4389.JPG)
-![Christopher St. Mosaic](/images/IMG_4397.JPG)
+![An image](/images/IMG_4445.JPG)
 
-After traveling maybe 10 miles by train, bus, and foot, I made it to SFPC at 10am precisely, which is when class starts.
-
-**Taeyoon's class:**
-
-Lots of interesting stuff about the history of computation and the biases contained therein.
-
-Taeyoon began our lesson with Charles Babbage and his large, geared machines.
-
-Looking at the life of [Alan Turing](https://en.wikipedia.org/wiki/Alan_turing), as a lesson on the institutional biases found in computation(that continue to this day), and as an oppurtunity to ask the question, "What Do We Want Computation to Be?".
-
-The ENIAC and EDVAC computers. Computing being switched from a BLANK to a managing science, from calculators for ballistics(war) purposes, to a tool for administration and science.
-
-We talked about [von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann), the problematic luminary of computing.
-
-We also taked about abstraction and repetition in computing.
-
-![Taeyoon slide - "abstraction and repetition in computing"](/images/levelsOfAb.jpg)
+Generating a lot of content here for the ol' bloggy blog. Time to ever-so-incrementally improve my Jekyll/web dev skills. I think I will format by week.
 
 -----
 
-My first day as an Eyebeam intern tonight, taking photos and video for their [Stop Work!](http://eyebeam.org/events/stop-work-1/) event, which is a group critique they offer to participating artists.
-
-It was fun. I really like the people that I'm working with, and I enjoy being at the space. It's kind of peaceful actually. It's such a large, well-windowed space. Every time I go there I feel like I am catching some of the breath back that New York has exacted from me.
-
-Here's a picture from the event. I also recorded audio of the three presentations, for which I will add a dropbox link soon.
-
-![Eyebeam Stop Work! wide shot](/images/IMG_4419.JPG)
+The "meet the students" presentation is tomorrow. I'm just going to tell the story of how I got to SFPC. I'm also going to allow people to livetweet while I talk because I've never done that before and I think it will be fun.
 
 -----
 
-**10PM:**
+Recovering from an epic, ass-kicking New York day yesterday. Riding my back home later - across the bridge, through downtown Brooklyn, Clinton Hill, and Bed Stuy. And then I will sleep, sleep, sleep.
 
-Today has been exhausting, as I had to get up early to move the rest of my stuff from Ditmas Park to Bed Stuy. This morning: a train from Clinton Hill to Ditmas Park, an express bus from Ditmas to Wall Street, and a train from Wall Street to Greenwich Village. Plus about 30 blocks of walking. Tired!
+But not before relocating once more to the upstairs apartment at our Airbnb. Hopefully, this will be the last time I have to move for the next couple of months.
 
------
-
-**For Lunch:** Leftover pizza and then, 30 minutes later, leftover dunkin noodles.
-
-**For Dinner:** Bodega Turkey and Ham Sandwich at 10pm. I also ordered a microwave burrito but the guy at the cash register microwaved it in the plastic. I threw it out.
+Woof.
 
 -----
 
-[Audio from Taeyoon's Class](https://www.dropbox.com/s/7eu1i3qm684fdwa/10172016%20-%20Taeyoon%20Class%20What%20Is%20Poetic%20Computation.m4a?dl=0)
+**For Lunch:** $3.50 bacon turkey wrap from D'Agostino's affordably-priced grocery on Bethune. And a corn muffin.
+
+**For Dinner:** Maybe pasta. Or pasta and egg. Or pasta and bacon. Or replace the word "pasta" with "ramen". Maybe will buy groceries on the way home.
+
+-----
