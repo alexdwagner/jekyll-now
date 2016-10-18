@@ -5,13 +5,13 @@ date:   2016-10-17 20:00:00 -0400
 categories: Taeyoon, politics and computation, eyebeam
 ---
 
-Today marks the start of a new week. Taeyoon taught the first session of his "Politics of Computation" class. It's a critical theory class concerning the biases and culture of computation
+Today marks the start of a new week. Taeyoon taught the first session of his "Politics of Computation" class. It's a critical theory class concerning the biases and culture of computation.
 
 ![Taeyoon board](/images/IMG_4409.JPG)
 
-Today was a day. Woke up in Clinton Hill, took the train to Ditmas Park to grab my things, then took an express bus and then another train to SFPC carrying maybe 25lbs of my belongings.
+*Today was a day*. Woke up in Clinton Hill, took the train to Ditmas Park to grab my things, then took an express bus and then another train to SFPC carrying maybe 25lbs of my belongings.
 
-One highlight was the mosaic art at the Christopher St. station of the 1 train.
+One highlight of my epic trek to South Brooklyn and back was the mosaic art at the Christopher St. station of the 1 train.
 
 ![Christopher St. Mosaic](/images/IMG_4401.JPG)
 ![Christopher St. Mosaic](/images/IMG_4393.JPG)
