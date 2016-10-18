@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "SFPC: Day 09 - Off-Day: Blogs, Homework, Other Things"
-date:   2016-10-17 20:00:00 -0400
+date:   2016-10-18 20:00:00 -0400
 categories: blog, homework, meet the students, jekyll
 ---
 
-Sweet, merciful off-day. How sweet the sound.
+Sweet, merciful off-day. How sweet the sound. Still working, but no class. Time to catch up on blog posts, assignments, and prepare for "Meet the Students!" tomorrow.
 
-Still working, but no class. Time to catch up on blog posts, assignments, and prepare for "Meet the Students!" tomorrow. Maybe even dig into a little bit of coding.
+Maybe even dig into a little bit of coding.
 
 ![An image](/images/IMG_4444.JPG)
 
