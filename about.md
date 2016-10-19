@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Alex Wagner will update this page soon.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Really. He will.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[dogepope@gmail.com](mailto:dogepope@gmail.com)
