@@ -90,3 +90,5 @@ collections:
   - week_1
 
 theme: minima
+
+paginate: 5
