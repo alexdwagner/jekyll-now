@@ -13,7 +13,7 @@ Maybe even dig into a little bit of coding.
 
 Look at the little doggy on the back of the bike!
 
-![An image](/images/IMG_4445.JPG)
+![An image](/images/IMG_4441.JPG)
 
 Generating a lot of content here for the ol' bloggy blog. Time to ever-so-incrementally improve my Jekyll/web dev skills. I think I will format by week.
 
@@ -34,9 +34,3 @@ Woof.
 **For Lunch:** $3.50 bacon turkey wrap from D'Agostino's affordably-priced grocery on Bethune. And a corn muffin.
 
 **For Dinner:** Maybe pasta. Or pasta and egg. Or pasta and bacon. Or replace the word "pasta" with "ramen". Maybe will buy groceries on the way home.
-
------
-
-Youtube test:
-
-{% include youtube.html youtube_id="kzpGqdEMbIs" %}
