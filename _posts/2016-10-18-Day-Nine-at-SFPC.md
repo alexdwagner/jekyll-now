@@ -36,3 +36,7 @@ Woof.
 **For Dinner:** Maybe pasta. Or pasta and egg. Or pasta and bacon. Or replace the word "pasta" with "ramen". Maybe will buy groceries on the way home.
 
 -----
+
+Youtube test:
+
+{% youtube.html youtube_id="kzpGqdEMbIs" %}
