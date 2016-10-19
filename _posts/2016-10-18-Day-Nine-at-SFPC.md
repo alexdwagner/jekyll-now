@@ -39,4 +39,4 @@ Woof.
 
 Youtube test:
 
-{% youtube.html youtube_id="kzpGqdEMbIs" %}
+{% include youtube.html youtube_id="kzpGqdEMbIs" %}
