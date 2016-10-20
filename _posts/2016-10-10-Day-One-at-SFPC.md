@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SFPC: Day 01 - Fall 2016 Session"
+title:  "SFPC: Day 01 - Orientation"
 date:   2016-10-10 16:34:24 -0400
 categories: SFPC, Taeyoon Choi
 ---
