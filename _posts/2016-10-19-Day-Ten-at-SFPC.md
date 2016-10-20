@@ -13,13 +13,13 @@ To begin the class, Phillip showed us some of his work.
 
 I really dig [Glitch Textiles](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0ahUKEwiezJWj3-fPAhXG4iYKHeBQAdIQFggkMAE&url=http%3A%2F%2Fwww.phillipstearns.com%2Fglitchtextiles%2F&usg=AFQjCNF54sV5Leht1jMTB0FI3XXgPtfdFg&sig2=hmglKmQ5WqVPICZqTnSLBQ&cad=rja).
 
-Phillip also showed us "a year of glitch"(?). Pretty neat.
+<!-- Phillip also showed us "a year of glitch"(?). Pretty neat. -->
 
 The rest of the class was all about electricity and electronics. A lot of the class was spent explaining how different electronic components function, especially transistors. For the last portion of class, we built a touch-sensitive LED "indicator circuit" on our breadboard.
 
 It was a lot to take in, but I really enjoy physical computing, so it was good medicine.
 
-[Breadboard on a white board.](/images/IMG_4514.JPG)
+![Breadboard on a white board.](/images/IMG_4514.JPG)
 
 -----
 
