@@ -34,7 +34,7 @@ And then we watched the death metal version.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hUzI3Ui1Eok" frameborder="0"></iframe>
 
-Lots of good conversation and thinking conceptually about computers via lecture, and then we paired off for an exercise. I'll call it "Computer/Programmer"
+Lots of good conversation and thinking conceptually about computers via lecture, and then we paired off for an exercise. I'm not sure what Ramsey calls it, so I'll just call it "Computer/Programmer".
 
 <h4> "Computer/Programmer: An Exercise We Did in Class" </h4>
 
