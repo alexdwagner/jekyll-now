@@ -32,7 +32,7 @@ Here's the class watching most of [John Cage performing his piece, "4'33" "](htt
 
 And then we watched the death metal version.
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/hUzI3Ui1Eok" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/hUzI3Ui1Eok" frameborder="0" allowfullscreen></iframe>
 
 Lots of good conversation and thinking conceptually about computers via lecture, and then we paired off for an exercise. I'll call it "Computer/Programmer"
 
@@ -45,7 +45,7 @@ Lots of good conversation and thinking conceptually about computers via lecture,
 5. For 15 minutes, the programmer will give drawing instructions to the computer. The programmer is allowed to "finish" the drawing to have a look. If so, a new drawing must be started by the computer and programmer.
 6. After 15 minutes, the class shares their drawings.
 
-![Computer/Programmer]](/images/IMG_4566.gif)
+![Computer/Programmer](/images/IMG_4566.gif)
 
 The first thought I had when hearing the exercise desribed was, "I wonder if computer/programmer role-playing is like a hyper-niche in the fetish community?".
 
