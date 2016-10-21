@@ -63,6 +63,7 @@ Golden Hour at Westbeth:
 ![Golden Hour at Westbeth](/images/IMG_4580.JPG)
 
 I think I'll probably just stay here and work - that's what I'd prefer to do. Maybe get some ramen later.
+
 -----
 
 Also, apparently [half the internet was brought down for two hours today](http://www.cnbc.com/2016/10/21/major-websites-across-east-coast-knocked-out-in-apparent-ddos-attack.html). Dyn, "an internet traffic company", said the attacks were still ongoing at the time of this writing.
