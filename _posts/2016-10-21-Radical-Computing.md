@@ -32,7 +32,7 @@ Here's the class watching most of [John Cage performing his piece, "4'33" "](htt
 
 And then we watched the death metal version.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hUzI3Ui1Eok" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hUzI3Ui1Eok" frameborder="0"></iframe>
 
 Lots of good conversation and thinking conceptually about computers via lecture, and then we paired off for an exercise. I'll call it "Computer/Programmer"
 
@@ -66,9 +66,7 @@ I think I'll probably just stay here and work - that's what I'd prefer to do. Ma
 
 -----
 
-Also, apparently [half the internet was brought down for two hours today](http://www.cnbc.com/2016/10/21/major-websites-across-east-coast-knocked-out-in-apparent-ddos-attack.html). Dyn, "an internet traffic company", said the attacks were still ongoing at the time of this writing.
-
-I need to learn opSec and make the big bucks!
+Also, apparently [half the internet was brought down for two hours today](http://www.cnbc.com/2016/10/21/major-websites-across-east-coast-knocked-out-in-apparent-ddos-attack.html). Dyn, "an internet traffic company", said the attacks were still ongoing at the time of this writing. Thought: I need to learn opSec and make the big bucks.
 
 -----
 
