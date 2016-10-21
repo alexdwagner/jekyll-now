@@ -22,7 +22,7 @@ We discussed core concepts of computer science: [programming language theory](ht
 
 But actually we had a lot of fun.
 
-Ramsey's class really complements Taeyoon's "Politics of Computation" class by putting some of those politics into practice(see [%D9%82%D9%84%D8%A8](http://nas.sr/%D9%82%D9%84%D8%A8/) - the first programming language written in Arabic).
+Ramsey's class really complements Taeyoon's "Politics of Computation" class by putting some of those politics into practice(see ["qlb"](http://nas.sr/%D9%82%D9%84%D8%A8/) - the first programming language written in Arabic, written by Ramsey while he was a resident at Eyebeam).
 
 First of all, Ramsey used an "infinite whiteboard" app of his own creation, that the class really kind of oohed and aahed over([github repo here](https://github.com/nasser/boards)). Basically, all you need is a computer, a digital tablet(like a Wacom or similar), and a screen(works well with a projector), and you can draw across an infinite space of white. Such a great tool!
 
