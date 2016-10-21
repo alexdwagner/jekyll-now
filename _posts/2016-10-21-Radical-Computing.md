@@ -51,6 +51,12 @@ The first thought I had when hearing the exercise desribed was, "I wonder if com
 
 The answer, of course, is "most likely".
 
+----
+
+Thanks to Medhir and Ruby, who put on an informal github workshop an hour after Ramsey's class. And also Robby for helping me get a repo going for a Processing project that I'm working on!
+
+-----
+
 It's about 5pm as I write this. Some students are going to the free night at MoMa(every Friday from 4p-8p). The sun has come out and it's turned into a really pretty day. May go for a walk soon.
 
 Golden Hour at Westbeth:
@@ -71,6 +77,8 @@ The class that cooks together, codes together. I've always said that.
 -----
 
 [Link to class notes for Ramsey's Class.](https://paper.dropbox.com/doc/Ramseys-Radical-Computer-Science-Class-1-OMfl7BW8fiAjfd7PejQw7)
+
+[Ramsey's "Infinite Whiteboard" for the Class](https://cdn.rawgit.com/nasser/303f0cb87d6f5a24bc2a60ac10155e94/raw/first-class.svg)
 
 Audio for Ramsey's Class:
 
