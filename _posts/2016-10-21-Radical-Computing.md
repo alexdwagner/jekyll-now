@@ -34,7 +34,9 @@ And then we watched the death metal version.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hUzI3Ui1Eok" frameborder="0"></iframe>
 
-Lots of good conversation and thinking conceptually about computers via lecture, and then we paired off for an exercise. I'm not sure what Ramsey calls it, so I'll just call it "Computer/Programmer".
+-----
+
+Ramsey's lecture contained lots so of good conceptual concepts about computers. At about 12:30p, we paired off for an exercise. I'm not sure what Ramsey calls it, so I'll just call it "Computer/Programmer".
 
 <h4> "Computer/Programmer: An Exercise We Did in Class" </h4>
 
@@ -66,7 +68,7 @@ I think I'll probably just stay here and work - that's what I'd prefer to do. Ma
 
 -----
 
-Also, apparently [half the internet was brought down for two hours today](http://www.cnbc.com/2016/10/21/major-websites-across-east-coast-knocked-out-in-apparent-ddos-attack.html). Dyn, "an internet traffic company", said the attacks were still ongoing at the time of this writing. Thought: I need to learn opSec and make the big bucks.
+Also, apparently [half the internet was brought down for two hours today](http://www.cnbc.com/2016/10/21/major-websites-across-east-coast-knocked-out-in-apparent-ddos-attack.html). Dyn, "an internet traffic company", said the attacks were still ongoing at the time of this writing. Really kind of scary if you think about it. Thought: I need to learn opSec and make the big bucks.
 
 -----
 
