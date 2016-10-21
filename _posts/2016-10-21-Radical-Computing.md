@@ -18,7 +18,7 @@ Maybe the second or third day it's rained since I've been here. A lot of my clas
 -----
 <h2> Radical Computing with Ramsey </h2>
 
-We discussed core concepts of computer science: [programming language theory](https://en.wikipedia.org/wiki/Programming_language_theory), [compiler theory](https://en.wikipedia.org/wiki/Compiler#Compiler_construction), the theory of computation.
+We discussed core concepts of computer science: [programming language theory](https://en.wikipedia.org/wiki/Programming_language_theory), [compiler theory](https://en.wikipedia.org/wiki/Compiler#Compiler_construction), and [the theory of computation](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwj5o5fV9uzPAhVMND4KHeLjAX4QFggpMAI&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FTheory_of_computation&usg=AFQjCNE9szTvPyUHg7ea8Kb_EqpiWzmaRQ&sig2=PN6qCsNFc2YHw8sr8aHwlA&bvm=bv.136499718,d.cWw).
 
 But actually we had a lot of fun.
 
@@ -45,7 +45,7 @@ Lots of good conversation and thinking conceptually about computers via lecture,
 5. For 15 minutes, the programmer will give drawing instructions to the computer. The programmer is allowed to "finish" the drawing to have a look. If so, a new drawing must be started by the computer and programmer.
 6. After 15 minutes, the class shares their drawings.
 
-[Computer/Programmer]](/images/IMG_4566.gif)
+![Computer/Programmer]](/images/IMG_4566.gif)
 
 The first thought I had when hearing the exercise desribed was, "I wonder if computer/programmer role-playing is like a hyper-niche in the fetish community?".
 
@@ -63,7 +63,11 @@ Golden Hour at Westbeth:
 ![Golden Hour at Westbeth](/images/IMG_4580.JPG)
 
 I think I'll probably just stay here and work - that's what I'd prefer to do. Maybe get some ramen later.
+-----
 
+Also, apparently [half the internet was brought down for two hours today](http://www.cnbc.com/2016/10/21/major-websites-across-east-coast-knocked-out-in-apparent-ddos-attack.html). Dyn, "an internet traffic company", said the attacks were still ongoing at the time of this writing.
+
+I need to learn opSec and make the big bucks!
 -----
 
 <h3> Food Report </h3>
