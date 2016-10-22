@@ -51,7 +51,7 @@ Ramsey's lecture contained lots so of good conceptual concepts about computers. 
 
 The first thought I had when hearing the exercise desribed was, "I wonder if computer/programmer role-playing is like a hyper-niche in the fetish community?".
 
-The answer, of course, is "most likely".
+The answer, of course, is "most likely". And I think that's great.
 
 ----
 
