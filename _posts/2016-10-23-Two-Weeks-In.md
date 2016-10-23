@@ -29,10 +29,6 @@ Busy busy! Sunny and windy on a Sunday afternoon.
 
 ![Feet Walking GIF](/images/IMG_4655.gif)
 
-*Walking through Soho, back to SFPC.*
-
-![Feet Walking GIF](/images/IMG_4655.gif)
-
 *Sixth Ave., walking back to SFPC.*
 
 ![Sixth Ave., walking back.](/images/IMG_4654.JPG)
