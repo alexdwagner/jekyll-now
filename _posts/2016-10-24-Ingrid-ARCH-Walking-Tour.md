@@ -83,15 +83,17 @@ A former ["carrier hotel"](https://en.wikipedia.org/wiki/Colocation_centre).
 
 ![60 Hudson class reflection](/images/IMG_4749.jpg)
 
+Here's Ingrid heroically pointing to our final destination, 32 Avenue of the Americas.
+
+![60 Hudson class reflection](/images/IMG_4762.jpg)
+
 <h2>WU TEL CO</h2>
 
 [Click here for tour audio at this location.](https://www.dropbox.com/s/9c7f8qph4qr8euu/6%20-%20Wu%20Tel%20Co.wav?dl=0)
 
 Western Union Telecommunications manhole. This manhole has been there at least since the 1930's.
 
-Here's Ingrid heroically pointing to our final destination, 32 Avenue of the Americas.
-
-![60 Hudson class reflection](/images/IMG_4762.jpg)
+![60 Hudson class reflection](/images/IMG_4755.jpg)
 
 <h2>32 Avenue of the Americas</h2>
 
