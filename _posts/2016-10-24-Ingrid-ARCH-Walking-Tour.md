@@ -37,7 +37,7 @@ This is a WiFi router.
 
 ![Ingrid explaining the router](/images/IMG_4695.jpg)
 
-There was a city project that installed these routers across the city, mostly for use by nycgov agencies to communicate with each other. Mainly it's the Department of Transportation who uses these routers to generate data and metrics for programming traffic lights and things of that nature.
+In 2011, there was a city project that installed these routers across the city, mostly for NYC governmental agencies to communicate with each other. Mainly it's the Department of Transportation who uses these routers to generate data and metrics for programming traffic lights and things of that nature.
 
 The router was up on top of a distro box on the traffic-light pole. Here's Ingrid explaining things about the router:
 
