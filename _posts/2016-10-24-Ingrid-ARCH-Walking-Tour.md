@@ -49,11 +49,11 @@ The router was up on top of a distro box on the traffic-light pole. Here's Ingri
 
 ![Windowless tomb-like ATT power distro building](/images/IMG_4716.jpg)
 
-Built by [John Carl Warnecke](https://en.wikipedia.org/wiki/John_Carl_Warnecke), who also designed JFK's gravesite and was a proponent of the school of "Contextualism". Built for AT&T's "Long-Lines" division.
+Built by [John Carl Warnecke](https://en.wikipedia.org/wiki/John_Carl_Warnecke), who also designed JFK's gravesite and was a proponent of the school of "Contextualism". Built for AT&T's "Long-Lines" division, which connects the US to telecommunications networks abroad.
 
 Building was designed to be completely self-sufficient and able to last for two weeks on it's own power during war time.
 
-In 1991, the central switch of the building was completely disabled because of all of the building's technicians were receiving training at another AT&T facility in midtown. The result was that 5 million calls were dropped, and the private telco lines that air traffic control uses were disabled, so air traffic control could not communicate with airplanes for three hours!
+In 1991, the central switch of the building was completely disabled because all of the building's technicians were receiving training at another AT&T facility in midtown. The result was that 5 million calls were dropped, and the private telco lines that air traffic control uses were disabled, so air traffic control could not communicate with airplanes for three hours!
 
 Here's our happy class walking to the next location. Perfect weather today, sunny and cool, but not chilly. Saw people in t-shirts.
 
