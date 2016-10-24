@@ -117,7 +117,9 @@ Here's Ingrid heroically pointing to our final destination, 32 Avenue of the Ame
 
 ![Dan entering the building](/images/IMG_4771.jpg)
 
-Another beautiful art deco building. Fantastic mosaic pieces depicting each continent, as well as telecom history.
+Another beautiful art deco building, and former carrier hotel. Listen to the audio(^link above)for more of the story on this building.
+
+Fantastic mosaic pieces inside depicting each continent.
 
 *"-PHONE WIRES AND RADIO UNITE TO MAKE NEIGHBORS OF NATIONS"*
 
