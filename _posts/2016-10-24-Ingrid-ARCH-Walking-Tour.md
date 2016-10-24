@@ -79,7 +79,7 @@ A former ["carrier hotel"](https://en.wikipedia.org/wiki/Colocation_centre).
 
 60 Hudson Ave. is significant to telecom history because it marks the site of a major battle won by small telecom carriers against the AT&T telecom monopoly in the 1970's, when US telecommunications were being deregulated. AT&T would not allow smaller carriers such as Sprint and MCI access to their underground telecom infrastructure. However, Sprint(and other carriers?), shrewdly officed in this building because AT&T's telecom cables were accessible from a tunnel that connected this building and 32 Avenue of the Americas, which was our last stop on the tour.
 
-*We weren't allowed to take pictures inside*, but our intrepid classmate Ruby got the contact to set up a tour for this beautiful art deco building.
+*We weren't allowed to take pictures inside*, but our intrepid classmate Ruby got the contact info at the front desk to set up a tour of this beautiful art deco building.
 
 ![60 Hudson class reflection](/images/IMG_4749.jpg)
 
