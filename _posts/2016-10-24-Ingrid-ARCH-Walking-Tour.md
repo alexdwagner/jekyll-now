@@ -2,14 +2,14 @@
 layout: post
 title:  "SFPC: Day 15 - Ingrid's Walking Tour of NYC Telecommunications History"
 date:   2016-10-24 15:00:00 -0400
-categories: food, photos, photo essay
+categories: AHOC, Ingrid Burrington, walking tour, lower manhattan, telecommunications, nyc history
 ---
 
-Today was our second class with Ingrid. In Lower Manhattan, she lead us on a walking tour of "the Architectural History of Computing", which coincidentally is the name of the class.
+Today was our second class with Ingrid. In Lower Manhattan, she lead us on a walking tour of "the Architectural History of Computing", which , coincidentally, is the name of the class.
 
 ![Class at 32 Ave of Americas](/images/IMG_4792.jpg)
 
-Listen to the audio of the walking tour(and a short lecture/class discussion):
+For each location, I've included audio of the tour. You can also download the unedited audio at the bottom of this post.
 
 <h2>The Map</h2>
 
@@ -108,7 +108,7 @@ Another beautiful art deco building. Fantastic mosaic pieces depicting each cont
 
 -----
 
-It's taken me two hours plus to write this post, so that's all I will share today. Will post tomorrow, per usual.
+It's taken me two hours plus to write this post, so that's all I will share today. Will post tomorrow, per usual. Tomorrow, we have Phillip Stearns Physical Computing class in the morning. Should be good. I like the hardware stuff, I do I do.
 
 -----
 
