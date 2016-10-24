@@ -131,7 +131,7 @@ It's taken me two hours plus to write this post, so that's all I will share toda
 
 -----
 
-**For Lunch:** At school, Dannie made a bok choy stir fry, Bryan made rice and shared his falafel with Dannie and I. Yum yum.
+**For Lunch:** At school, Dannie made a bok choy stir fry, and Bryan made rice and shared his falafel with Dannie and I. Yum yum.
 
 **For Dinner:** Dunno! The stove is still broken at our AirBnB(grr), so probably grab something from DAG-mart.
 
