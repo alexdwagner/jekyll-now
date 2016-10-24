@@ -41,7 +41,6 @@ In 2011, there was a city project that installed these routers across the city, 
 
 The router was up on top of a distro box on the traffic-light pole. Here's Ingrid explaining things about the router:
 
-![Ingrid explaining the router](/images/IMG_4695.jpg)
 ![Ingrid explaining the router with Baku](/images/IMG_4700.jpg)
 
 <h2>33 Thomas St.</h2>
