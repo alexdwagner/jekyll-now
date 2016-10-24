@@ -11,9 +11,13 @@ Today was our second class with Ingrid. In Lower Manhattan, she lead us on a wal
 
 For each location, I've included audio of the tour. You can also download the unedited audio at the bottom of this post.
 
+-----
+
 <h2>The Map</h2>
 
 ![The Map](/images/IMG_4685.jpg)
+
+-----
 
 <h2>270 Broadway</h2>
 
@@ -29,6 +33,8 @@ We all agreed that the apartment is probably haunted.
 
 ![Class at 270 Broadway.](/images/IMG_4687.jpg)
 
+-----
+
 <h2>WiFi Router on the Street</h2>
 
 [Click here for tour audio at this location.](https://www.dropbox.com/s/h4aifxu3yupk5tm/2%20-%20Wifi%20router%20on%20the%20street.wav?dl=0)
@@ -42,6 +48,8 @@ In 2011, there was a city project that installed these routers across the city, 
 The router was up on top of a distro box on the traffic-light pole. Here's Ingrid explaining things about the router:
 
 ![Ingrid explaining the router with Baku](/images/IMG_4700.jpg)
+
+-----
 
 <h2>33 Thomas St.</h2>
 
@@ -59,6 +67,8 @@ Here's our happy class walking to the next location. Perfect weather today, sunn
 
 [Windowless tomb-like ATT power distro building](/images/IMG_4730.jpg)
 
+-----
+
 <h2>Orange Arrows Spray-Painted on the Sidewalk</h2>
 
 [Click here for tour audio at this location.](https://www.dropbox.com/s/xhduv6pt6i3vbhn/4%20-%20Orange%20Lines.wav?dl=0)
@@ -67,6 +77,8 @@ Here's our happy class walking to the next location. Perfect weather today, sunn
 ![Orange arrows](/images/IMG_4735.jpg)
 
 Ingrid explained that these ubiquitous orange spray-paint markings signify to construction workers where internet cables and infrastructure are, under the street.
+
+-----
 
 <h2>60 Hudson Ave.</h2>
 
@@ -83,9 +95,7 @@ A former ["carrier hotel"](https://en.wikipedia.org/wiki/Colocation_centre).
 
 ![60 Hudson class reflection](/images/IMG_4749.jpg)
 
-Here's Ingrid heroically pointing to our final destination, 32 Avenue of the Americas.
-
-![60 Hudson class reflection](/images/IMG_4762.jpg)
+-----
 
 <h2>WU TEL CO</h2>
 
@@ -94,6 +104,12 @@ Here's Ingrid heroically pointing to our final destination, 32 Avenue of the Ame
 Western Union Telecommunications manhole. This manhole has been there at least since the 1930's.
 
 ![60 Hudson class reflection](/images/IMG_4755.jpg)
+
+Here's Ingrid heroically pointing to our final destination, 32 Avenue of the Americas.
+
+![60 Hudson class reflection](/images/IMG_4762.jpg)
+
+-----
 
 <h2>32 Avenue of the Americas</h2>
 
