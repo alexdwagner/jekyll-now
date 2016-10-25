@@ -78,6 +78,11 @@ Here's our happy class walking to the next location. Perfect weather today, sunn
 
 Ingrid explained that these ubiquitous orange spray-paint markings signify to construction workers where internet cables and infrastructure are, under the street.
 
+<h3>We also found an open manhole with a righteous mess of fiberoptic cables and whatnot</h3>
+
+![Open manhole with internets exposed](/images/IMG_4799.jpg)
+![Open manhole with internets exposed](/images/IMG_5806.jpg)
+
 -----
 
 <h2>60 Hudson Ave.</h2>
