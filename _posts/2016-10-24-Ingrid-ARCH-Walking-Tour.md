@@ -81,7 +81,7 @@ Ingrid explained that these ubiquitous orange spray-paint markings signify to co
 <h3>We also found an open manhole with a righteous mess of fiberoptic cables and whatnot</h3>
 
 ![Open manhole with internets exposed](/images/IMG_4799.jpg)
-![Open manhole with internets exposed](/images/IMG_5806.jpg)
+![Open manhole with internets exposed](/images/IMG_4806.jpg)
 
 -----
 
