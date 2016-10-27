@@ -11,6 +11,8 @@ Physical computing with Phillip Stearns today. Robby taught an origami workshop 
 
 Today was a very busy, very good day.
 
+For Ingrid's class, we are creating "computation diaries". My concept is to create a "computational empowerment diary". I will be documenting every time I learn something that's cool/empowering with computers.
+
 -----
 
 <h2>Last Night</h2>
@@ -71,7 +73,7 @@ And then Jason, classmate, applied a deep learning style to it:
 
 I haven't really coded at all in C, so this workshop was challenging, but a lot of fun.
 
-My takeaway: the secret to life is normalizing from 0 to 1. And sine waves.
+**My takeaway:** the secret to life is normalizing from 0 to 1. And sine waves.
 
 ![class working gif](/images/IMG_5026.gif)
 
