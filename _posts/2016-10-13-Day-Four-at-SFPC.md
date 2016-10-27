@@ -9,7 +9,7 @@ Today was our fourth day at SFPC. We were with [Ingrid Burrington](http://lifewi
 
 Tired today.
 
-Commute is long. Stayed up too late. Glad to be moving to Bed Stuy this weekend - it will be a better train and a shorter walk to the train station.
+Long commute is long. Stayed up too late. Glad to be moving to Bed Stuy this weekend - it will be a better train and a shorter walk to the train station.
 
 I enjoyed Ingrid's session with us today. She espouses that the internet *is* a physical thing. Even code exists on a material basis.
 
@@ -25,9 +25,13 @@ I look forward to reading her new book as well:
 
 ---
 
+Ingrid gave us homework: keep a computation diary. She left it up to us to decide what this means. Maybe I will do mine about my relationship with the [MacOS Terminal](https://en.wikipedia.org/wiki/Terminal_(macOS)).
+
+---
+
 For lunch: fried chicken, mashed potatos and pasta salad from the DAG grocery store around the corner.
 
-For dinner: ?. Thinking about buying a microwave for SFPC. Would be convenient and good for saving $$$$.
+For dinner: ?. Thinking about buying a microwave for SFPC. Would be convenient and good for saving moneyyyy.
 
 Looking forward to tomorrow, which is an off day.
 

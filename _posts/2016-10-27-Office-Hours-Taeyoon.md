@@ -78,7 +78,7 @@ Meeting with Taeyoon was uniquely rewarding. Going forward, I will make sure to 
 
 -----
 
-Currently, drinking moringa tea and working.
+Currently, drinking moringa tea and working. Contemplating noise and New York City, and what those mean together.
 
 [To do](/images/102716_todo.png)
 

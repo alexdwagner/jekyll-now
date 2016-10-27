@@ -76,6 +76,15 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-lazy-tweet-embedding # Self-explanatory. https://github.com/takuti/jekyll-lazy-tweet-embedding
+  - jekyll-nokogiri # indextank search
+
+# indextank settings
+indextank_index: my_index
+indextank_api_url: http://:myapikey@myapi.api.indextank.com
+
+# these values are applied as regular expressions
+indextank_excludes: [index.html, 404.html, ^/secret/]
 
 # Exclude these files from your production _site
 exclude:
