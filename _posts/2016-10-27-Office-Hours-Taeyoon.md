@@ -74,7 +74,15 @@ Meeting with Taeyoon was uniquely rewarding. Going forward, I will make sure to 
 
 -----
 
-Currently, drinking moringa tea and working. Contemplating noise and New York City, and what those mean together.
+<h2>Currently</h2>
+
+Drinking moringa tea and working. Contemplating noise and New York City, and what those mean together. When I get stressed, I'm quite sensitive to noise.
+
+Katrina and I had a good talk about noise the other day. We aim to examine it in our final project.
+
+Also, SFPC has a book by Greg Hainge called, *Noise Matters: Towards an Ontology of Noise*, that I've been carrying around for the last couple of days and intend to start reading soon.
+
+Life is noise, noise is life.
 
 ![To do](/images/102716_todo.png)
 
