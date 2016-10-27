@@ -63,11 +63,7 @@ We talked for about 40 minutes. Here are some things Taeyoon shared with me(I'm 
 - **Projects:** "It's better to do a series of small projects than to try to produce one big project.""
 - **Drawing and Writing:** "You can use drawing and writing as a counterbalance to more technical learning. For instance, after spending an couple of hours studying Open Frameworks, spend some time writing and drawing about your learning experience and what you're trying to accomplish." *My words:* it creates a nice feedback loop between two kinds of learning, a dialectic.
 - **Blogging About the School:** "The people are the most important thing. SFPC does not have a lot of material resources, so it's really all about the people at the school and what they are doing. Taeyoon suggested writing and engaging with fellow students more than I have been doing."
-- **Starting a(n artist-run) School:** "You really just need a couple of people who are intensely interested in starting a school with you. Grassroots organizing experience is useful.
-
-It's important to listen as closely as possible. Not everyone is going to collaborate equally(not at all times, at least).
-
-The goal of any collaboration is to work together over a long period of time."
+- **Starting a(n artist-run) School:** "You really just need a couple of people who are intensely interested in starting a school with you. Grassroots organizing experience is useful. It's important to listen as closely as possible. Not everyone is going to collaborate equally(not at all times, at least). The goal of any collaboration is to work together over a long period of time."
 - **On Being Someone Who Likes to Create Systems and Rules:** "Maybe create systems for others to shine."
 - **On Resolving Conflicts with Collaborators:** "It's okay to ask for what you think is fair. One way to do this would be to say something like, 'Hey guys, I don't think this collaboration is going how I would like. In the future, I'd like to see these changes made because this collaboration is important to me.' "
 - **On Managing Stress:** "Usually the stress is self-imposed."
