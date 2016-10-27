@@ -9,6 +9,10 @@ Physical computing with Phillip Stearns today. Robby taught an origami workshop 
 
 -----
 
+Today was a very busy, very good day.
+
+-----
+
 <h2>Last Night</h2>
 
 Ingrid tweeted [the blog post I wrote](https://alexdwagner.github.io/Ingrid-ARCH-Walking-Tour/) about her [walking tour of NYC telecommunications history](https://twitter.com/lifewinning/status/790652064141602816).
@@ -17,15 +21,17 @@ I am honored and so glad - the post took me three hours to write and to edit the
 
 -----
 
-<h2>Phillip Stearns Physical Computing Class</h2>
+<h2>Phillip Stearns' Physical Computing Class</h2>
 
 ![magnifying glass](/images/IMG_4992.jpg)
 
-Was fun! We made paper circuits!!
+Was fun! We continued to learn about the basics of electronics and electronics components.
+
+And then we made paper circuits!!
 
 ![class working gif](/images/IMG_4999.gif)
 
-Our happy power strip man.
+Our happy power strip man, resting after providing power all class.
 
 ![our happy power strip man](/images/IMG_5003.jpg)
 
