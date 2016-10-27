@@ -41,7 +41,7 @@ Our happy power strip man, resting after providing power all class.
 
 Began this afternoon at 3pm. I needed time to work on other things so I did not attend.
 
-However, you should check out his Instagram. His work is really good.
+However, you should check out his Instagram. His work is really good!
 
 [@gridpaper](https://www.instagram.com/gridpaper/)
 
