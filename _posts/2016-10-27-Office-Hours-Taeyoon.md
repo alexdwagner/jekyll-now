@@ -38,10 +38,10 @@ I arrived in Manhattan to find out that dogs are no longer allowed in the boroug
 
 As I was taking this picture, a woman with her tiny dog was walking by.
 
-"I got a better picture!", she said continuing towards the crosswalk.
-"Oh yeah, what's that?", I asked, genuinely curious.
-"I got one of my dog peeing on it!"
-"That's amazing!"
+"I got a better picture!", she said continuing towards the crosswalk.<br>
+"Oh yeah, what's that?", I asked, genuinely curious.<br>
+"I got one of my dog peeing on it!"<br>
+"That's amazing!"<br>
 
 Laughing, we continued on our opposite ways.
 
