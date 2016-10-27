@@ -37,7 +37,7 @@ Our happy power strip man, resting after providing power all class.
 
 -----
 
-<Robby's Origami Workshop</h2>
+<h2>Robby's Origami Workshop</h2>
 
 Began this afternoon at 3pm. I needed time to work on other things so I did not attend.
 
