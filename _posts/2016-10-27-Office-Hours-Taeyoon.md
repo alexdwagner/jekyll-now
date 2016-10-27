@@ -19,7 +19,7 @@ Got a small cappucino and a bagel at [Nagle's Bagels](www.naglesbagels.nyc).
 
 On the way to the train, Brooklyn is still being built:
 
-![Construction framed](/images/IMG_5028.jpg/)
+![Construction framed](/images/IMG_5027.jpg/)
 
 ---
 
