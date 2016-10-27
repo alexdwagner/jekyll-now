@@ -15,18 +15,18 @@ Up in the morning at 7am. Showered, packed bag, out the door. It was raining lig
 
 Got a small cappucino and a bagel at [Nagle's Bagels](www.naglesbagels.nyc).
 
-![Nagle's Bagels!](/images/IMG_5033.jpg)
+![Nagle's Bagels!](/images/IMG_5027.jpg)
 
 On the way to the train, Brooklyn is still being built:
 
-![Construction framed](/images/IMG_5027.jpg/)
+![Construction framed](/images/IMG_5028.jpg)
 
 ---
 
 And on the A train, an advertisement for an app that lets you invest in multi-national defense contractors from your very own smartphone! How convenient.
 
-![Investing app ad](/images/IMG_5029.jpg/)
-![Investing app ad](/images/IMG_5030.jpg/)
+![Investing app ad](/images/IMG_5029.jpg)
+![Investing app ad](/images/IMG_5030.jpg)
 
 I'm so comfortable in the "Orwellian now". But for how long?
 
@@ -45,7 +45,7 @@ As I was taking this picture, a woman with her tiny dog was walking by.
 
 Laughing, we continued on our opposite ways.
 
-![No dogs](/images/IMG_5032.jpg/)
+![No dogs](/images/IMG_5032.jpg)
 
 Apparently, my classmate Bryan, who brought his small dog from Seattle with him, took the same picture this morning.
 
@@ -55,7 +55,7 @@ Apparently, my classmate Bryan, who brought his small dog from Seattle with him,
 
 At 11am, I sat with Taeyoon for office hours, and showed him the 10 or so questions I'd written on the train.
 
-![Notes from talk w/ Taeyoon.](/images/IMG_5037.jpg/)
+![Notes from talk w/ Taeyoon.](/images/IMG_5037.jpg)
 
 We talked for about 40 minutes. Here are some things Taeyoon shared with me(I'm paraphrasing):
 
