@@ -49,7 +49,7 @@ Hanging out at the space last night, my classmate Jason Toy turned me onto an ap
 
 ![Style](/images/Style1.jpg)
 
-I showed him a program called [Videogrep](), a tool created by [Sam Lavigne](http://lav.io) to easily create video supercuts.
+I showed him a program called [Videogrep](https://github.com/antiboredom/videogrep), a tool created by [Sam Lavigne](http://lav.io) to easily create video supercuts.
 
 Jason and I are talking about collaborating on a project combining deep learning and video. Check out his Tensorflow resources page on github - it's exhaustive(in a really good way)!
 
@@ -62,7 +62,7 @@ Jason and I are talking about collaborating on a project combining deep learning
 
 ![Pano of class](/images/IMG_5090.jpg)
 
-We discussed:
+**We discussed:**
 
 - The joys of coding on the subway.
 - "What does it mean to compute?"
@@ -119,6 +119,6 @@ Also, we put in a work order for our broken sink yesterday at the Westbeth front
 
 [The "Infinite Whiteboard notes" today from Ramsey's class.](https://cdn.rawgit.com/nasser/632f5d49959e741dbf286009326fb31b/raw/theory-of-computation.svg)
 
-[Audio from class today](https://www.dropbox.com/s/tjdc6me34ie2u7t/10282016%20-%20Ramsey%27s%20Radical%20Computing%20Class%202.m4a?dl=0)
+[Audio from class today.](https://www.dropbox.com/s/tjdc6me34ie2u7t/10282016%20-%20Ramsey%27s%20Radical%20Computing%20Class%202.m4a?dl=0)
 
 I'm working on embedding an audio player on this site for all of the recorded class audio. Also, I want to build a directory/archive for it.
