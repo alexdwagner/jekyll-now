@@ -19,13 +19,13 @@ Headshots in Bed Stuy.
 
 ![Headshots in Bed Stuy](/images/IMG_5071.jpg)
 
-I found a suit but it was too big.
-
-![Tree shadows on SFPC building](/images/IMG_5075.jpg)
-
 The Nostrand A/C stop.
 
-![Nostand and Atlantic](/images/IMG_5076.jpg)
+![Nostand and Atlantic](/images/IMG_5075.jpg)
+
+Shoes on a train.
+
+![Shoes on a train](/images/IMG_5076.jpg)
 
 Street-crossers at 8th ave. and 14th st.
 
@@ -47,20 +47,20 @@ I need to start meditating again. The only way I know to slow down time.
 
 Hanging out at the space last night, my classmate Jason Toy turned me onto an app called Style, that you can download in the Apple App Store. It allows you to use your webcam to take a photo and apply a deep learning style transfer to it. For example, that means you can apply Starry Night to your selfie. Pretty neat!
 
-![](/images/IMG_Style1.jpg)
+![Style](/images/Style1.jpg)
 
 I showed him a program called [Videogrep](), a tool created by [Sam Lavigne](http://lav.io) to easily create video supercuts.
 
 Jason and I are talking about collaborating on a project combining deep learning and video. Check out his Tensorflow resources page on github - it's exhaustive(in a really good way)!
 
-![](/images/IMG_Style2.jpg)
-![](/images/IMG_Style3.jpg)
+![Style](/images/Style2.jpg)
+![Style](/images/Style3.jpg)
 
 -----
 
 <h2>Radical Computer Science: "Computation Theory"</h2>
 
-![](/images/IMG_5090.jpg)
+![Pano of class](/images/IMG_5090.jpg)
 
 We discussed:
 
@@ -99,7 +99,8 @@ There's a hang at [Office of Creative Research](https://ocr.nyc/) tonight from 6
 
 Halloween weekend! The infamous [Bike kill](https://www.facebook.com/events/1145931212153404/)! Parties! Woo!
 
-Actually I don't really like parties but I'm going to try to get out.
+*Actually I don't really like parties but I'm going to try to get out.*
+
 -----
 
 **For Lunch:**
@@ -117,6 +118,7 @@ Also, we put in a work order for our broken sink yesterday at the Westbeth front
 -----
 
 [The "Infinite Whiteboard notes" today from Ramsey's class.](https://cdn.rawgit.com/nasser/632f5d49959e741dbf286009326fb31b/raw/theory-of-computation.svg)
+
 [Audio from class today](https://www.dropbox.com/s/tjdc6me34ie2u7t/10282016%20-%20Ramsey%27s%20Radical%20Computing%20Class%202.m4a?dl=0)
 
 I'm working on embedding an audio player on this site for all of the recorded class audio. Also, I want to build a directory/archive for it.
