@@ -13,7 +13,7 @@ Saturday, a time to relax and see the city. A time for breakfast. A time for lib
 
 Woke up in the morn at about 8:30am.  Caity and I got up and at 'em and got to the incredible Toms Diner in Clinton Hill, right at about 10am, just early enough to beat a long line that formed behind us. The pancakes were perfect.
 
-![coffee gif](/images/IMG_5134_coffee.jpg)
+![coffee gif](/images/IMG_5134_coffee.gif)
 
 <h2>Books</h2>
 
