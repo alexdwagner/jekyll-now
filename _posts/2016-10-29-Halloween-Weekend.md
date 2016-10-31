@@ -5,8 +5,6 @@ date:   2016-10-29 15:00:00 -0400
 categories: halloween, library card, books, breakfast, records, confused travolta
 ---
 
-Day 20 at sfpc - 10/29/16
-
 Saturday, a time to relax and see the city. A time for breakfast. A time for library cards.
 
 ![Life in it's poetic form sign](/images/IMG_5132.jpg)
