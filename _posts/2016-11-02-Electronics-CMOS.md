@@ -23,6 +23,8 @@ Also, check out this fun video of Phillip's dog, Norman, vibing out to DIY synth
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Ma_r202hHs" frameborder="0" allowfullscreen></iframe>
 
+-----
+
 <h2>Yoga at the Park on the Pier</h2>
 
 I went to the park on the Hudson to chill out and do some yoga. I had a big lunch earlier, and once I'd rolled out my yoga mat on the grass and kicked off my shoes, I fast a-nap.
