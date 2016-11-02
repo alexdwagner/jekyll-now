@@ -5,7 +5,7 @@ date:   2016-11-01 15:00:00 -0400
 categories: Taeyoon, cooking, Zach, homework, dog
 ---
 
-Taeyoon cooked lunch. Zach gave a talk. My classmate Bryan brought his small dog, Stella the Space Chicken.
+Taeyoon cooked lunch. Zach gave a talk. My classmate Bryan brought his small dog, Stella, the Space Chicken.
 
 ![Taeyoon cooking](/images/IMG_5273.jpg)
 
@@ -16,10 +16,6 @@ Taeyoon cooked lunch. Zach gave a talk. My classmate Bryan brought his small dog
 We have a pine tree outside our Airbnb.
 
 ![Pine tree](/images/IMG_5248.jpg)
-
-Stoop steps.
-
-![Stoop](/images/IMG_5252.jpg)
 
 Nagle's Bagels. $5 Hot Chocolate and you're prescriptively encouraged to tip(if you want). See ["trojan horse business"](https://www.facebook.com/decolonizethisplace/photos/gm.1226507764086142/218347115252933/?type=3&theater).
 
@@ -41,7 +37,7 @@ Here's my to-do list for the day:
 -Internship at Eyebeam
 -homework for Philip Stern's class(solder some things)
 
-Here is a picture of Stella, aka Space Chicken who was trotting around spreading mirth and whatnot.
+Here is a picture of Stella, aka "Space Chicken" who was trotting around spreading mirth and whatnot.
 
 ![Stella](/images/IMG_5286.jpg)
 
@@ -66,23 +62,25 @@ Zack's talk started soon thereafter. He went through some of his older projects,
 
 <h3>Prague</h3>
 
-Projections. On the river. The water. I'm not doing this part justice so please scroll down and listen to the audio recording of Zach's talk.
+Projections. On the river. The water. Hard for me to describe better than that right now.
+
+I'm not doing this part justice so please scroll down and listen to the audio recording of Zach's talk.
 
 <h3>London</h3>
 
-I really dug the project he did in London with Margaret Atwood. For the project, Hagseed, in which Zack created some incredible interactive Open Frameworks sketches in dialogue with Margaret Atwood's literary reimagining of Shakespeare's The Tempest.
+I really dug the project he did in London with Margaret Atwood. For the project, Zack created some incredible interactive Open Frameworks sketches in dialogue with Margaret Atwood's literary reimagining of Shakespeare's The Tempest.
 
 Such a great marriage of interactivity, performance, and text. I especially enjoyed the Instagram video of Atwood interacting with Zach's work herself.
 
 <h3>Japan</h3>
 
-A really interesting project using retroreflective spray paint and thresholding functions to generate some really neat work.
+A really interesting project using retroreflective spray paint and thresholding functions to unique effect.
 
 ![Above you](/images/IMG_5274.jpg)
 
 I was really impressed with how thoroughly Zach documents his work. He had so many photos! Lots of cool stuff to show us. He hadn't even had time to edit them yet.
 
-I had to leave at 2:30 to get to my internship at Eyebeam.
+And them I had to leave at 2:30 to get to my internship at Eyebeam.
 
 *A view while leaving Westbeth*
 
@@ -92,7 +90,7 @@ I had to leave at 2:30 to get to my internship at Eyebeam.
 
 I was surprised at how fast the D train from West 4th got me there.
 
-![Take it to the bridge](/images/IMG_5281.jpg)
+![Take it to the bridge](/images/IMG_5281.gif)
 
 At a corner store, I ordered what was to be a delicious chicken cutlet sandwich.
 
