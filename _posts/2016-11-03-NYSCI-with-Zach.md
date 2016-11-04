@@ -48,7 +48,7 @@ I'm just going to post the copious picture and video I captured in the brief tim
 
 ![Front of NYSCI](/images/IMG_5350.gif)
 
-<h4>Here's Zach explaining to the class how his piece "Reflection Study" works.</h4>
+<h3>Here's Zach explaining to the class how his piece "Reflection Study" works.</h3>
 
 *Part One*
 
@@ -58,11 +58,9 @@ I'm just going to post the copious picture and video I captured in the brief tim
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CBvSHuql_28" frameborder="0" ></iframe>
 
-Some gifs of that happening.
+A gif of that.
 
 ![Debug screen](/images/IMG_5354.gif)
-
-![Pan to class](/images/IMG_5351.gif)
 
 And then we explored the ["Connected Worlds" installation](http://design-io.com/projects/ConnectedWorlds/) next door.
 
