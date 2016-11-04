@@ -92,15 +92,15 @@ We made dinner together, me, Dannie, and Jason(he lost his voice today and was s
 
 <h2>Progress</h2>
 
-We have a project review coming up on November 10th. I may just present my blog. I'm finding it incredibly tough to pursue any projects. Also, I'm not sure I feel our homework is relevant. I like the reading but our Electronics Class homework was for naught and I'm just not that interested in creating a puzzlescript game for Ramsey's class tomorrow. I'd rather read or pursue my own ideas.
+We have a project review coming up on November 10th. I may just present my blog.
+
+I'm also finding it incredibly tough to pursue any projects.
 
 I guess I've just got too much going on - trying to find a more permanent place to live, interning at Eyebeam, volunteering this weekend at Radical Networks and the Internet Yami Ichi. And doing freelance video editing in between all of that. Am I running myself ragged? No wonder I have no time to learn how to code.
 
 I can't seem to slow down. I guess that's okay? I'm enjoying myself immensely here. This has been a challenging but incredibly worthwhile experience so far.
 
 I just see the programmers doing all the fun stuff and, seemingly, being paid well for it. I want to do that. I want to have a standard of living. I want healthcare and my own apartment and maybe even a dog and a girlfriend.
-
-I don't know that I'll do the homework tonight.
 
 -----
 
