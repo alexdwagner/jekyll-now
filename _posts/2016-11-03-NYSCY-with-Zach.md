@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SFPC: Day 25 - Electronics: CMOS and Oscillators"
+title:  "SFPC: Day 25 - Field Trip with Zach to NY Hall of Science"
 date:   2016-11-03 15:00:00 -0400
 categories: nysci, zach, matt felsen, connected worlds, theo watson, field trip, cooking, puzzlescript, video, queens
 ---
