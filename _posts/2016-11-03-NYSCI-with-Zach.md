@@ -58,6 +58,8 @@ I'm just going to post the copious picture and video I captured in the brief tim
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CBvSHuql_28" frameborder="0" ></iframe>
 
+Some gifs of that happening.
+
 ![Debug screen](/images/IMG_5354.gif)
 
 ![Pan to class](/images/IMG_5351.gif)
