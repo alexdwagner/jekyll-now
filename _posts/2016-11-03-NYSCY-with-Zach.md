@@ -20,7 +20,7 @@ On my walk to the train.
 
 When I got to the 14th street stop in Manhattan, there were four cops in full paramilitary gear with assault rifles around this corner. I thought better of photographing them.
 
-They seemed out of place, an overblown response to a war that isn't going to happen for while or has long since past. Maybe they were there in response to the subway protestors of earlier this week at the Nostrand A/C station in Brooklyn? I don't know.
+They seemed out of place, an overblown response to a war that isn't going to happen for a while or has long since past. Maybe they were there in response to the subway protestors of earlier this week at the Nostrand A/C station in Brooklyn? I don't know.
 
 I walked by and their bad mood was palpable. I'm sure it is kind of a bummer being an attack dog of the state.
 
@@ -32,7 +32,7 @@ I got to SFPC at about 10a and ran into my friend Carol, who was exercising her 
 
 Carol, Riley, and I walked to Bus Stop as planned. I had a bacon omelette with home fries, toast, coffee, and orange juice. We talked about a lot of things. I'm going to get to meet her team next Friday - the people who help her put on [Westfest](http://westfestdance.com/), a dance festival that takes place on multiple floors of the Westbeth building.
 
-After breakfast, I said goodbye to Carol in the Westbeth lobby. Soon after, me, Baku, Zach, and Zach's friend/collaborator/former student at Parsons [Matt Felsen](http://mattfelsen.com/) set out for the New York Hall of Science, which is a kids' science museum.
+After breakfast, I said goodbye to Carol in the Westbeth lobby. Soon after, me, Baku, Zach, and Zach's friend/collaborator/former student at Parsons, [Matt Felsen](http://mattfelsen.com/), set out for the New York Hall of Science, which is a kids' science museum.
 
 We took the 7 train from 42nd street. It's a really nice train ride once you get into Queens, all aboveground.
 
@@ -40,19 +40,15 @@ We took the 7 train from 42nd street. It's a really nice train ride once you get
 
 I'm just going to post the copious picture and video I captured in the brief time my phone still had battery.
 
-Front of museum.
+*Front of museum.*
 
 ![Front of NYSCI](/images/IMG_5346.jpg)
 
-Entering museum.
+*Entering museum.*
 
 ![Front of NYSCI](/images/IMG_5350.gif)
 
 <h4>Here's Zach explaining to the class how his piece "Reflection Study" works.</h4>
-
-![Pan to class](/images/IMG_5351.gif)
-
-![Debug screen](/images/IMG_5354.gif)
 
 *Part One*
 
@@ -61,6 +57,10 @@ Entering museum.
 *Part Two*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CBvSHuql_28" frameborder="0" ></iframe>
+
+![Debug screen](/images/IMG_5354.gif)
+
+![Pan to class](/images/IMG_5351.gif)
 
 And then we explored the ["Connected Worlds" installation](http://design-io.com/projects/ConnectedWorlds/) next door.
 
@@ -72,7 +72,21 @@ There was a really incredible "interactive book" that went along with the exhibi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CbqZ8Lc_50M" frameborder="0" allowfullscreen></iframe>
 
-Then back to SFPC on the 7 train. We made dinner together, me, Dannie, and Jason. Now I'm typing up the blog for the day.
+*Self Portrait*
+
+![Self portrait](/images/IMG_5400.jpg)
+
+Then back to SFPC on the 7 train.
+
+*Here's a hurried photo of the sunset on my way back from the grocery store.*
+
+![Sunset Hudson](/images/IMG_5401.jpg)
+
+We made dinner together, me, Dannie, and Jason(he lost his voice today and was speaking through the text-to-speech app on his phone, often to comedic effect). Now I'm typing up the blog for the day.
+
+*Oh, and Robby organized the hecking heck out of all of the tools and supplies. Good going, kind of jealous you got to organize all of that stuff, Robby, lol*
+
+![Organized supplies](/images/IMG_5402.jpg)
 
 -----
 
