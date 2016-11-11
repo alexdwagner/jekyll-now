@@ -75,6 +75,7 @@ I left at about 12:30a and didn't get home - from one of the longest, most agoni
 When I got home it was confirmed that Trump had clinched the presidency. I decided that I might not go to school that morning.
 
 I need silence and space.
+
 -----
 
 **For Breakfast:**
