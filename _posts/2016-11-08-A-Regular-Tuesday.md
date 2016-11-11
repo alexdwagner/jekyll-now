@@ -2,7 +2,7 @@
 layout: post
 title:  "SFPC: Day 30 - Housing Debacle, Eyebeam Internship... Election Night"
 date:   2016-11-08 20:00:00 -0400
-categories: ingrid, sick, tired, election, eyebeam
+categories: election, eyebeam, pupusas, inez bakery, prospect park
 ---
 
 We had a housing situation debacle today, which seems to have been resolved. Not going to SFPC today. I have my Eyebeam internship in the afternoon, need time to recuperate from, well - *everything that's been happening*.
@@ -18,6 +18,7 @@ Oh, and the US presidential election is tonight. Eyebeam is hosting a come-one, 
 *Gentrification in Bed Stuy*
 
 ![Gentrifying Bed Stuy](/images/IMG_5479.jpg)
+
 ![Gentrifying Bed Stuy](/images/IMG_5481.jpg)
 
 <h2>This Is Why You Should Never AirBnB for Longer than Two Weeks</h2>
@@ -28,17 +29,19 @@ I like them. For the most part we get along.
 
 However, if you're ever thinking about renting an AirBnB long-term, don't.
 
-I hate to be a tease, but it's a tale for another time, friends.
+Anyway, I hate to be a tease, but it's a tale for another time, friends.
 
-Hopefully, this weekend. Maybe never.
+Hopefully, this weekend. Or maybe never.
 
 -----
 
 <h2>Prospect Park, Revisited</h2>
 
-![Skaters in the park](/images/IMG_5484.gif)
-
 ![Pano park](/images/IMG_5485.jpg)
+
+Did some reading in Prospect Park today. Such a good place.
+
+![Skaters in the park](/images/IMG_5484.gif)
 
 ![POV bike](/images/IMG_5486.gif)
 -----
@@ -55,7 +58,7 @@ Biked there. Got Pupusas at my beloved Inez Bakery. Chicharrones y queso. Made f
 
 ![Inez floor](/images/IMG_5487.jpg)
 
-Working on a post about Radical Networks. Got some good interview footage of the Rad Netz founders, so maybe possibly a video soon as well?
+Working on a post about [Radical Networks](www.radicalnetworks.org) and a video edit about their [Playable Fashion]() program. Got some good interview footage of the Rad Netz founders at the event, so maybe possibly a video soon as well?
 
 -----
 
