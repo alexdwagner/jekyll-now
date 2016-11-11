@@ -85,11 +85,11 @@ Tomorrow I am to meet Cecile in the morning to finish the edit. It is a quick tu
 
 -----
 
-<h2>Presdient-Elect Donald Trump</h2>
+<h2>President-Elect Donald Trump</h2>
 
 Donald Trump has been elected as president. There were protests in Union Square tonight. In Seattle, a shooting that killed at least three people.
 
-How bad is this going to get? I guess we won't know until January.
+How bad is this going to get? I guess we won't know until January and onward.
 
 -----
 
