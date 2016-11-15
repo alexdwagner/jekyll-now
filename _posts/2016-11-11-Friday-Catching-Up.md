@@ -11,7 +11,7 @@ Had Ramsey's class today. Was pretty tired from the little impromptu Leonard Coh
 
 <h2>Today</h2>
 
-![Ramsey](/images/IMG_5546.jpg)  
+![Ramsey](/images/IMG_5546.JPG)  
 
 Had a tough time following in class today. Did not get enough sleep, plus the subject material was kind of complex.
 
@@ -21,7 +21,7 @@ Went home early, went to bed early.
 
 Westbeth flea market this weekend. May try to go.
 
-![Westbeth flea](/images/IMG_5547.jpg)  
+![Westbeth flea](/images/IMG_5547.JPG)  
 
 -----
 

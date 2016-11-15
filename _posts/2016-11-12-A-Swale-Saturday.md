@@ -5,15 +5,13 @@ date:   2016-11-12 20:00:00 -0400
 categories: swale, amelia marzec, airbnb
 ---
 
-Today I ventured into Dumbo to see Eyebeam Resident Amelia Marzec perform a pirate radio installation on Mary Mattingly's Swale, which is a seafaring art installation that grows food.
+Today I ventured into Dumbo to see Eyebeam Resident Amelia Marzec perform a pirate radio installation on [Mary Mattingly's](http://www.marymattingly.com/) Swale project, [which is a seafaring art installation that grows food](http://www.swaleny.org/).
 
 ![Pano swale](/images/IMG_5614.jpg)  
 
 -----
 
 <h2>Today</h2>
-
-![Ramsey](/images/IMG_5546.jpg)  
 
 Slept in. Got up around 930a or 10a. I worked on things around the house and then biked to my Airbnb at 1pm. I checked in and left my stuff.
 
@@ -27,7 +25,7 @@ I'd booked the Airbnb because I've been sleeping on a couch in a living room for
 
 I took a bus to the Brooklyn piers at about 2pm and got to the event not long after. It was chilly outside, especially in the shade. Was kind of in a shite mood tbh.
 
-And that all changed when I got to Swale.
+And that all changed when I got to [Swale](http://www.swaleny.org/).
 
 First, I'll show you pictures.
 
@@ -36,7 +34,8 @@ First, I'll show you pictures.
 ![Swale](/images/IMG_5600.jpg)
 
 *Mary Mattingly, Amelia Marzec, and Robby Mayson*
-![Swale](/images/IMG_5607.jpg)
+
+![Swale](/images/IMG_5607.JPG)
 
 ![Swale](/images/IMG_5585.jpg)
 
@@ -46,11 +45,17 @@ It's always good to see Amelia. I got to video interview her and make friends la
 
 My initial impression was, "Amelia is cool and nice person". However, through the course of interviewing her, I learned about her work and teaching and kind of just developed a complete brain-crush on her. I can't remember exactly what we talked about, except that her work is informed by the ideas of networks, noise, and the act of hearing.
 
-I also got to meet Mary Mattingly, who's work I've been a fan of since this whole returning-to-NYC journey began, almost exactly a year ago.
+I also got to meet Mary Mattingly, who's work I've been a fan of since this whole returning-to-NYC journey began, almost exactly a year ago. I enjoyed speaking with her and hope to volunteer for the project and possibly lend my photo and documentary filmmaking skills.
+
+-----
+
+<h2>Serendipity</h2>
+
+Lots of serendipity happening. Let me explain.
 
 Last November, I had Thanksgiving in Albany with my mom's side of the family. Afterwards, I took the train down and spent five days in NYC.
 
-While there, three important things happened:
+While there, three important things happened. Three things that I'm still kind of living out:
 
 - I met a girl and began a year-long relationship(recently ended, still friends)
 - I attended a talk at ICP that Ramsey Nasser gave with two other artists. It's there that I learned about Processing and began my coding journey.
