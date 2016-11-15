@@ -5,6 +5,12 @@ date:   2016-11-08 20:00:00 -0400
 categories:
 ---
 
+Secret iPhone emoticons, guest pupper haiku, informal group critique.
+
+Also, Leonard Cohen died. Rest in peace, rest in power.
+
+-----
+
 Today was my actual first day of school this week, since Monday class was cancelled and I worked a shoot on Wednesday.
 
 It was a damn fine day. Finished the edit, met a friend for greasy spoon diner, hung out on the Hudson, and then we had an informal group critique.
@@ -53,13 +59,15 @@ Here's a picture at dusk, from when we were leaving.
 
 ![Hudson sunset](/images/IMG_5534.jpg)  
 
+-----
+
 <h2>Guest Pupper Haikus by Jo</h2>
 
 Back at SFPC, I asked Jo to contribute something to my blog. In short order, she wrote five haiku about all of the dogs we saw on our walk to lunch, the park, and then back. Pics of two of the pups below.
 
 She was even nice enough to let me record her speaking the poem. [Listen here](https://www.dropbox.com/s/9b5jnxol2yshyrr/%40%28%E3%83%BB%E2%97%8F%E3%83%BB%29%40.m4a?dl=0).
 
-*Good rounded pupper
+Good rounded pupper
 Cannonball walk joyful face
 Old spotty stoic
 
@@ -77,14 +85,16 @@ Sad cold floppy ears
 
 Group pupper rating
 About Fourteen out of ten
-I needed more pats*
+I needed more pats
 
 Here are some of the puppers in question.
 
 ![Riley](/images/IMG_5640.JPG)  
-![Short round pupper](/images/IMG_5640.JPG)  
+![Short round pupper](/images/IMG_5674.JPG)  
 
 *Fun Game:* See if you can match both puppers to their respective stanza!
+
+------
 
 <h2>Informal Group Critique</h2>
 
