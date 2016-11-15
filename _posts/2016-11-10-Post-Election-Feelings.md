@@ -55,9 +55,9 @@ Here's a picture at dusk, from when we were leaving.
 
 <h2>Guest Pupper Haikus by Jo</h2>
 
-Back at SFPC, I asked her to contribute something to my blog. In short order, Jo wrote four haiku about all of the dogs we saw on our walk to lunch, the park, and then back. Alas, I took pictures of none of them.
+Back at SFPC, I asked Jo to contribute something to my blog. In short order, she wrote five haiku about all of the dogs we saw on our walk to lunch, the park, and then back. Pics of two of the pups below.
 
-She was even nice enough to let me record her speaking the poem. [Listen here]().
+She was even nice enough to let me record her speaking the poem. [Listen here](https://www.dropbox.com/s/9b5jnxol2yshyrr/%40%28%E3%83%BB%E2%97%8F%E3%83%BB%29%40.m4a?dl=0).
 
 *Good rounded pupper
 Cannonball walk joyful face
@@ -79,11 +79,18 @@ Group pupper rating
 About Fourteen out of ten
 I needed more pats*
 
+Here are some of the puppers in question.
+
+![Riley](/images/IMG_5640.JPG)  
+![Short round pupper](/images/IMG_5640.JPG)  
+
+*Fun Game:* See if you can match both puppers to their respective stanza!
+
 <h2>Informal Group Critique</h2>
 
 Not much later it was 7pm, time for the scheduled group critique.
 
-[You can listen here]().
+[You can listen here](https://www.dropbox.com/s/hdbvuxuzyyukqgi/11102016%20-%20Group%20Crit.m4a?dl=0).
 
 Each of the students was allowed to present project ideas to receive feedback from the fellow students and alums present.
 
