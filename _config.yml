@@ -86,6 +86,9 @@ indextank_api_url: http://:myapikey@myapi.api.indextank.com
 # these values are applied as regular expressions
 indextank_excludes: [index.html, 404.html, ^/secret/]
 
+# dropbox test
+cdn_path: https://dl.dropboxusercontent.com/u/8637739/benwilhelm.com
+
 # Exclude these files from your production _site
 exclude:
   - Gemfile
