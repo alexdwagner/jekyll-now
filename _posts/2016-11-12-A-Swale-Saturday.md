@@ -62,6 +62,7 @@ While there, three important things happened. Three things that I'm still kind o
 - I attended a meeting of School of the Apocalypse. The meeting was about "Radical Seafaring". Mary Mattingly was there.
 
 So everything has come full circle in the span of a year. Which is good because I was absolutely miserable living in Dallas. It's weird to be relatively happy again, even if I am more or less continuously hemorrhaging money in this city.
+
 -----
 
 **For Lunch:**
