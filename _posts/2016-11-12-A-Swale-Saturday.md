@@ -5,7 +5,7 @@ date:   2016-11-12 20:00:00 -0400
 categories: swale, amelia marzec, airbnb
 ---
 
-Today I ventured into Dumbo to see Eyebeam Resident Amelia Marzec perform a pirate radio installation on [Mary Mattingly's](http://www.marymattingly.com/) Swale project, [which is a seafaring art installation that grows food](http://www.swaleny.org/).
+Today I ventured into Dumbo to see Eyebeam Resident [Amelia Marzec](http://www.ameliamarzec.com/) perform a pirate radio installation on [Mary Mattingly's](http://www.marymattingly.com/) Swale project, [which is a seafaring art installation that grows food](http://www.swaleny.org/).
 
 ![Pano swale](/images/IMG_5614.jpg)  
 
@@ -39,7 +39,7 @@ First, I'll show you pictures.
 
 ![Swale](/images/IMG_5585.jpg)
 
-When I got there, there weren't too many folks there. Just me, Amelia, her co-performer Rob, Mary Mattingly, and a woman picking edible plant things with her kid.
+When I arrived, there weren't too many folks there. Just me, Amelia, her co-performer Rob, Mary Mattingly, and a woman picking edible plant things with her kid.
 
 It's always good to see Amelia. I got to video interview her and make friends last weekend at Radical Networks(was that last week? time flies). I actually first met her back in early October when I volunteered at the Tech by Artists workshop at Eyebeam.
 

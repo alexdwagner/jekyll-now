@@ -67,25 +67,30 @@ Back at SFPC, I asked Jo to contribute something to my blog. In short order, she
 
 She was even nice enough to let me record her speaking the poem. [Listen here](https://www.dropbox.com/s/9b5jnxol2yshyrr/%40%28%E3%83%BB%E2%97%8F%E3%83%BB%29%40.m4a?dl=0).
 
-Good rounded pupper
-Cannonball walk joyful face
-Old spotty stoic
+-----
+<h2>Pupper Haiku by Jo</h2>
 
-Two brother puppers
-No tails to indicate mood
-Did not pat for fear
+  Good rounded pupper
+  Cannonball walk joyful face
+  Old spotty stoic
 
-Baby puppers soft coats
-Tried to pat owner annoyed
-Bad human to puppers
+  Two brother puppers
+  No tails to indicate mood
+  Did not pat for fear
 
-Skinny black pupper
-Quilted fancy coat too small
-Sad cold floppy ears
+  Baby puppers soft coats
+  Tried to pat owner annoyed
+  Bad human to puppers
 
-Group pupper rating
-About Fourteen out of ten
-I needed more pats
+  Skinny black pupper
+  Quilted fancy coat too small
+  Sad cold floppy ears
+
+  Group pupper rating
+  About Fourteen out of ten
+  I needed more pats
+
+-----
 
 Here are some of the puppers in question.
 
