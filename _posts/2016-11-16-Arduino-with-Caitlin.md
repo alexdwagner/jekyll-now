@@ -89,19 +89,12 @@ I'm missing Patricio’s shaders workshop tonight to work on client work. Boo. L
 
 Also, Mrs. Green’s, our other grocery store, is officially closed. Kind of nonplussed about it. They were the fancier, more expensive brother to our beloved D’Ag. So expensive! but had THE BEST cheese danishes. Mrs. Green’s, I suppose you will be missed, at least a little bit.
 
-Lunch: Making guacamole for Ruby because to replace what was lost last week during Leonard Cohen memorial celebration.
-
-Dinner: Making carrot ginger soup. Been fighting a cold.
-
------
-
 **For Lunch:**
 
 Guacamole! Leftover chicken. Ruby shared some prosciutto and salami. Made a bunch of rice, didn't eat it, saved it. I have to remember to eat all of the food I have stored here.
 
 **For Dinner:**
-
-?
+Making carrot ginger soup. Been fighting a cold.
 
 -----
 
