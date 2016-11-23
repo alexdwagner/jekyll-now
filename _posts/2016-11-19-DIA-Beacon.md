@@ -7,7 +7,7 @@ categories: Saturday, DIA Beacon, fine art, museums
 
 We went to DIA Beacon. What fun!
 
-![workspace](/images/IMG_5749.jpg)
+![Louise B](/images/IMG_5873.jpg)
 
 -----
 
@@ -45,9 +45,17 @@ We went to DIA Beacon. What fun!
 
 ![Flavin yell](/images/IMG_5799.jpg)  
 
+*Artist unknown and forgotten to the sands of time.*
+
+![Grand Central](/images/IMG_5851.jpg)  
+
 *Dan Flavin piece.*
 
 ![Grand Central](/images/IMG_5851.jpg)  
+
+*Just Louise, and her massive metal spider, so entwined.*
+
+![Louise](/images/IMG_5873.jpg)  
 
 *Cloud couch aka heaven. By Thor's hammer, I will build one of these someday.*
 
