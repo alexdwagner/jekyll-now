@@ -39,6 +39,11 @@ Sausage, egg, and cheese from deli at Penn Station.
 
 I brought my lunch. Sweet potato salad with feta and some pastries from a jerk chicken place.
 
+Later I had a meatball sub.
+
 **For Dinner:**
+
+Guatita(beef tripe) at a Peruvian restaurant called Pio Pio, in an urban part of Albany.
+
 
 -----
