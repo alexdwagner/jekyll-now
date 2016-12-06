@@ -35,11 +35,15 @@ Then I had to go to SFPC to grab some hard drives. A quick ride on the L train.
 
 ![Puppets](/images/IMG_6647.JPG)
 
+-----
+
 <h2>Eyebeam Internship</h2>
 
 Solved a tech problem for Morehshin and Daniel Rourke.
 
 Worked on video things. Left from Eyebeam, got tacos from Ines Bakery, and hopped on the train headed for Chelsea, devouring the tacos like the hungerbeasts that we were.
+
+-----
 
 <h2>Sleep No More</h2>
 

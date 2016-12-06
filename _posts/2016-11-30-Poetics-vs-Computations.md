@@ -2,7 +2,7 @@
 layout: post
 title:  "SFPC: Day 52 - Exhaustion, Poetics vs. Computation"
 date:   2016-11-30 20:00:00 -0400
-categories: caitlin morris, arduino, Wednesday, exhaustion
+categories: caitlin morris, arduino, Wednesday, exhaustion, rant
 ---
 
 ![Dolce Vita rain](/images/IMG_6608.JPG)
@@ -22,6 +22,8 @@ Some video I took of classmates presenting their projects.
 I took an Uber home because I was deathly tired and I had to carry a bunch of stuff.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GGH9B1LlAMc?rel=0" frameborder="0" ></iframe>
+
+-----
 
 <h2>I'm Tired: A Rant</h2>
 

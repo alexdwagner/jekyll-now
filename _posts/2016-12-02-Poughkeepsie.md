@@ -13,7 +13,7 @@ Had our seventh class with Ramsey. Then picked up a sweet car in Hoboken, and dr
 
 <h2>Today</h2>
 
-In the morning:
+**In the morning:**
 
 *Forever Bed Stuy*
 

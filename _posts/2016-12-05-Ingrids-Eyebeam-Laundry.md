@@ -31,6 +31,8 @@ A fellow worker man with a big smile starts to laugh out loud.
 
 Satisfied with the interaction, I waved and walked up the stairs to 14th st.
 
+-----
+
 <h2>Ingrid's Class</h2>
 
 We all had to present for our "computational diaries". I did not prepare for class. I felt bad. Ingrid was nice to not make me feel worse about it. I discussed my blog.
@@ -40,6 +42,8 @@ We all had to present for our "computational diaries". I did not prepare for cla
 - **Documentation Fatigue is real:** I'm definitely struggling to keep up the energy with which I started the blog. At this point, I'm 7 or 8 days behind on updating my blog. Luckily, my mother is the only one who reads it. Still, I do not want to disappoint my only reader.
 - **The relationship between picture and text:** through this project, I've really been able to explore how words add dimensionality to an image and vice versa.
 - **Making a book as a personal document:** I like the idea of creating a book as a document of a period of time spent doing a thing. I look forward to making notes and referring to the book, seeing it on a shelf, thumbing through it, seeing it on my coffee table, packing it in a moving box and moving it from place to place.
+
+-----
 
 <h2>Eyebeam Internship</h2>
 

@@ -5,7 +5,7 @@ date:   2016-11-28 20:00:00 -0400
 categories: Taeyoon, class, freelance, exhaustion
 ---
 
-![Taeyoons class](/images/IMG_xxxx.jpg)
+![Taeyoon's Class](/images/IMG_6562.JPG)
 
 -----
 <h2>Taeyoon's Class: Learning to Teach</h2>
@@ -72,6 +72,18 @@ We also discussed the principles of constructivist learning.
 
 Lastly, at the end of class, we designed a four-class curriculum for six students. Mine was called, "Taking
 (Back) Your Time: Time Strategies in a Late Capital World".
+
+-----
+
+<h2>Hudson Pier Walk: Late Afternoon</h2>
+
+![Hudson](/images/IMG_6573.JPG)
+
+![Hudson](/images/IMG_6576.JPG)
+
+![Hudson](/images/IMG_6580.JPG)
+
+![Hudson](/images/IMG_6589.JPG)
 
 -----
 
