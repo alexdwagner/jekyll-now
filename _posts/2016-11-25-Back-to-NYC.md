@@ -57,6 +57,14 @@ Rode the train South with parents. We were too slow to get in line and did not g
 
 Gonna have dinner with parents and call it an early night. Need to work on school/work/internship stuff today.
 
+Saw this in Spanish Harlem, where my parents are staying in an Airbnb.
+
+![Mural](/images/IMG_6256.jpg)
+
+Here's dad relaxin'. I think I sent this image in a text to my sister, who was back in Dallas.
+
+![Dad](/images/IMG_6271.jpg)
+
 -----
 
 **Breakfast:**

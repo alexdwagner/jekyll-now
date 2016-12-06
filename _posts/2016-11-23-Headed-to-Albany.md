@@ -7,8 +7,6 @@ categories: Wednesday, Albany, Thanksgiving
 
 Headed to Albany to see family for Thanksgiving.
 
-![iphones](/images/IMG_6092.jpg)
-
 -----
 
 <h2>Today</h2>
