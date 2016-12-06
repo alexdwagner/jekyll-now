@@ -77,13 +77,13 @@ Lastly, at the end of class, we designed a four-class curriculum for six student
 
 <h2>Hudson Pier Walk: Late Afternoon</h2>
 
-![Hudson](/images/IMG_6573.JPG)
+![Hudson](/images/IMG_6573.jpg)
 
-![Hudson](/images/IMG_6576.JPG)
+![Hudson](/images/IMG_6576.jpg)
 
-![Hudson](/images/IMG_6580.JPG)
+![Hudson](/images/IMG_6580.jpg)
 
-![Hudson](/images/IMG_6589.JPG)
+![Hudson](/images/IMG_6589.jpg)
 
 -----
 

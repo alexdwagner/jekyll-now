@@ -5,7 +5,7 @@ date:   2016-11-30 20:00:00 -0400
 categories: caitlin morris, arduino, Wednesday, exhaustion, rant
 ---
 
-![Dolce Vita rain](/images/IMG_6608.JPG)
+![Dolce Vita rain](/images/IMG_6608.jpg)
 
 Today we had Caitlin Morris' arduino class. I was very tired and had trouble staying focused in class. Cold, cold rain, rain, rain.
 
@@ -43,7 +43,7 @@ I love computers. I grew up with them. I was 10 when the internet became availab
 
 Therefore, a love of computers and computation is in my blood.
 
-![Arduino table](/images/IMG_6607.JPG)
+![Arduino table](/images/IMG_6607.jpg)
 
 I think I've struggled at SFPC because, besides time commitments, it's not always apparent to me how centers concepts and elements of computation are poetic.
 

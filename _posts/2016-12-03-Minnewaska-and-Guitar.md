@@ -5,7 +5,7 @@ date:   2016-12-03 20:00:00 -0400
 categories: poughkeepsie, Minnewaska, guitar, Japanese food, Didi
 ---
 
-![Minnewaska waterfall](/images/IMG_6715.JPG)
+![Minnewaska waterfall](/images/IMG_6715.jpg)
 
 Today, sweetheart and I made breakfast, went to Minneswaska Falls, and I bought a guitar. Later, we made dinner and had a little party with our Airbnb hosts.
 
@@ -15,11 +15,13 @@ Today, sweetheart and I made breakfast, went to Minneswaska Falls, and I bought 
 
 <h2>Lake Minnewaska</h2>
 
-![Minnewaska waterfall](/images/IMG_6714.JPG)
+![Minnewaska waterfall](/images/IMG_6714.jpg)
 
 We came upstate to go on a hike, that was our intended goal when we'd planned the trip last week. Lake Minnewaska wasn't much of a hike at all, but maaaan was it pretty. I could've sat by that waterfall all day, and then some.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nOH2cDFaZIk?rel=0" frameborder="0" ></iframe>
+
+-----
 
 <h2>Bought a Guitar</h2>
 
@@ -27,13 +29,17 @@ After Minnewaska, we passed back through the small college town of New Paltz. We
 
 I bought the second guitar I played, an Epiphone Masterbilt. Pretty solid little acoustic guitar - nice, clear sound, low action, good sustain. Not a bad price either. I paid half of what I was ready to spend.
 
-![Guitar](/images/IMG_6742.JPG)
+![Guitar](/images/IMG_6742.jpg)
 
 Afterwards we stopped at a grocery store and wine shop to grab dinner provisions.
+
+-----
 
 <h2>Japanese Food</h2>
 
 In our cozy cottage kitchen, she made [Katsudon](https://en.wikipedia.org/wiki/Katsudon) for dinner. It was delicious.
+
+-----
 
 <h2>Didi and the Gang</h2>
 
@@ -41,7 +47,7 @@ Our host Didi, was kind enough to invite us over to her home, where she was havi
 
 *This is the best picture we have of the revelry that took place.*
 
-![Didi's house](/images/IMG_6742.JPG)
+![Didi's house](/images/IMG_6742.jpg)
 
 Didi was so nice. She even gave us a bottle of Beaujolais Nouveau 2016 to take home. Hope to see her again.
 

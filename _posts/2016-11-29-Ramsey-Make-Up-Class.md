@@ -10,9 +10,12 @@ categories: ramsey, radical computer science, class, make-up
 Make-up class for Ramsey's Radical Computer Science class today. Our sixth of eight classes with Ramsey. We talked about building a parser using Javascript.
 
 -----
+
 <h2>Rain Today</h2>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f0A1NuXZh7A?rel=0" frameborder="0" ></iframe>
+
+-----
 
 <h2>Ramsey's Class</h2>
 
@@ -23,6 +26,8 @@ In class, and afterwards, we talked about [creating a parser in Mal](https://git
 Basically, we get to create our own rules for what-means-what in each of our own programming languages. Heady stuff, but very, very interesting with regards to thinking about semantics, logic, and textual meaning.
 
 Ramsey was really nice to sit down with me and go through the material after class ended. He answered all of my questions and allowed exploration of any tangent or aside, always coming back to the material at hand. By the end of it, I had a pretty good learning buzz and was ready for lunch!
+
+-----
 
 <h2>SFPC Salon</h2>
 

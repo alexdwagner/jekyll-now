@@ -5,7 +5,7 @@ date:   2016-12-01 20:00:00 -0400
 categories: Thursday, Sleep No More, Eyebeam, internship
 ---
 
-![Never waste a nice day](/images/IMG_6628.JPG)
+![Never waste a nice day](/images/IMG_6628.jpg)
 
 Had breakfast in Bushwick with my cousin, Helen. Eyebeam internship, and then - [Sleep No More]()!
 
@@ -17,23 +17,23 @@ Met my cousin Helen at Ange Noir, a French bagel and crepe place in Bushwick. Wh
 
 *Hipster vending machine in Bushiwick, near the Morgan stop*
 
-![Vending machine](/images/IMG_6632.JPG)
+![Vending machine](/images/IMG_6632.jpg)
 
 *Googly-eyed subway movie poster*
 
-![Googly eyes](/images/IMG_6636.JPG)
+![Googly eyes](/images/IMG_6636.jpg)
 
-![Googly eyes](/images/IMG_6637.JPG)
+![Googly eyes](/images/IMG_6637.jpg)
 
 Then I had to go to SFPC to grab some hard drives. A quick ride on the L train.
 
 *Puppet workshop in Greenwich Village*
 
-![Puppets](/images/IMG_6642.JPG)
+![Puppets](/images/IMG_6642.jpg)
 
-![Puppets](/images/IMG_6645.JPG)
+![Puppets](/images/IMG_6645.jpg)
 
-![Puppets](/images/IMG_6647.JPG)
+![Puppets](/images/IMG_6647.jpg)
 
 -----
 

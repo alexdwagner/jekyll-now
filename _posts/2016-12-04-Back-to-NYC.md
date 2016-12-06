@@ -5,7 +5,7 @@ date:   2016-12-04 20:00:00 -0400
 categories: back to NYC, hoboken, selfie, cemetery lunch, picnic
 ---
 
-![lunch](/images/IMG_6746.JPG)
+![lunch](/images/IMG_6746.jpg)
 
 Had a great porchside breakfast, packed up and said goodbye to our hosts, zoomed down the Taconic and we were back in NYC by late afternoon. Returned the car in Hoboken and traveled back to Brooklyn to get some sleep.
 
@@ -21,7 +21,9 @@ Driving back into the city. Highways and byways.
 
 *Car selfie. Sad for our getaway weekend to be over.*
 
-![Car selfie](/images/IMG_6748.JPG)
+![Car selfie](/images/IMG_6748.jpg)
+
+-----
 
 <h2>I Love Hoboken(No Jokin'), Part Two</h2>
 
@@ -37,7 +39,7 @@ Baked eggs with bacon, caramelized onion, mozzarella, and toast. So good. Should
 
 Chicken cutlets on a cemetery sidewalk.
 
-![lunch](/images/IMG_6746.JPG)
+![lunch](/images/IMG_6746.jpg)
 
 **For Dinner:**
 
