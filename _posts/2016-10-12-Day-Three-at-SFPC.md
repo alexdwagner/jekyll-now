@@ -32,6 +32,7 @@ And then she took us across the street to a really neat spot in the park along t
 Here's a link to my audio recording of most of Lauren's talk:
 
 [Part One](https://www.dropbox.com/s/marwvsxlf48lk85/10122016_LaurenGardner_01.m4a?dl=0)
+
 [Part Two](https://www.dropbox.com/s/owlbcqmm6ffswiu/10122016_LaurenGardner_02.m4a?dl=0)
 
 Afterwards, most of the class went out for barbecue. Yum. We talked about possible parties and weekend plans. Quality time wit' da group.
