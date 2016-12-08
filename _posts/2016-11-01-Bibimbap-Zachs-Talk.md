@@ -54,11 +54,11 @@ It was a great meal and I hope we get to cook and eat together again soon.
 
 ![Finished plate](/images/IMG_5271.jpg)
 
-<h2>Zack's Talk</h2>
+<h2>Zach's Talk</h2>
 
 ![Zach talk pano](/images/IMG_5277.jpg)
 
-Zack's talk started soon thereafter. He went through some of his older projects, and allowed us to live vicariously through his recent travels to Prague, London, and Japan.
+Zach's talk started soon thereafter. He went through some of his older projects, and allowed us to live vicariously through his recent travels to Prague, London, and Japan.
 
 <h3>Prague</h3>
 
