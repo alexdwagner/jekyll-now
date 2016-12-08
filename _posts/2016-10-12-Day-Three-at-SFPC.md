@@ -7,7 +7,7 @@ categories: SFPC, Lauren Gardner, project management, creative projects, managin
 
 Today was our third day at SFPC. We were with [Lauren Gardner](www.laurengardner.com) for all of our class time today. She talked to us about creative projects and how to manage them.
 
-![SFPC students hanging out across the street at the park.](/images/IMG_4165.JPG)
+![SFPC students hanging out across the street at the park.](/images/IMG_4165.jpeg)
 
 To begin the class, Lauren shared her personal history, from being a curious, autodidactic kid from a small town in Texas, to working in film production in Austin, Texas, to working on video games, to moving to NYC and being a project manager for Thomson Reuters and working in the web side of broadcast journalism.
 
@@ -31,7 +31,8 @@ And then she took us across the street to a really neat spot in the park along t
 
 Here's a link to my audio recording of most of Lauren's talk:
 
-[Part One](https://www.dropbox.com/s/marwvsxlf48lk85/10122016_LaurenGardner_01.m4a?dl=0) | [Part Two](https://www.dropbox.com/s/owlbcqmm6ffswiu/10122016_LaurenGardner_02.m4a?dl=0)
+[Part One](https://www.dropbox.com/s/marwvsxlf48lk85/10122016_LaurenGardner_01.m4a?dl=0)
+[Part Two](https://www.dropbox.com/s/owlbcqmm6ffswiu/10122016_LaurenGardner_02.m4a?dl=0)
 
 Afterwards, most of the class went out for barbecue. Yum. We talked about possible parties and weekend plans. Quality time wit' da group.
 
