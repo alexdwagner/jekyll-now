@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "SFPC: Day 55 - Minnewaska and Guitar"
-date:   2016-12-03 20:00:00 -0400
-categories: poughkeepsie, Minnewaska, guitar, Japanese food, Didi
+title:  "SFPC: Day 58 - Apartment Hunting"
+date:   2016-12-06 20:00:00 -0400
+categories: apartment hunt, bushwick, red hook, eyebeam
 ---
 
 ![xxxx](/images/IMG_xxxx.JPG)
@@ -29,4 +29,8 @@ From Crocus, down the street: a big, fat glazed cake donut.
 
 **For Lunch:**
 
+A huge open face Reuben sandwich with fries at Daisy's Diner in Park Slope.
+
 **For Dinner:**
+
+1/4 chicken and fries at a Peruvian restaurant in Bushwick.

@@ -7,13 +7,13 @@ categories: SFPC, Lauren Gardner, project management, creative projects, managin
 
 Today was our third day at SFPC. We were with [Lauren Gardner](www.laurengardner.com) for all of our class time today. She talked to us about creative projects and how to manage them.
 
-[SFPC students hanging out across the street at the park.](/images/IMG_4165.JPG)
+![SFPC students hanging out across the street at the park.](/images/IMG_4165.JPG)
 
 To begin the class, Lauren shared her personal history, from being a curious, autodidactic kid from a small town in Texas, to working in film production in Austin, Texas, to working on video games, to moving to NYC and being a project manager for Thomson Reuters and working in the web side of broadcast journalism.
 
 Lauren is an SFPC alum, and in class today spoke of a time as an SFPC student when she realized that this is how her job made her feel:
 
-[Gif - Reporter asks kid if he loves his job and he thinks about it, then cries.](/images/cryingKidJob.JPG)
+![Gif - Reporter asks kid if he loves his job and he thinks about it, then cries.](/images/cryingKidJob.JPG)
 
 So she quit that job while attending SFPC, and, today, she is a keystone in the NYC arts and tech scene. In addition to being on the steering board at SFPC, Lauren also works at Eyebeam. At SFPC, she functions as an administrative mensch, making sure the trains run on time, the bills get paid, the students get informed.
 
@@ -27,7 +27,7 @@ I'm probably missing something. It was an information avalanche in the best way 
 
 And then she took us across the street to a really neat spot in the park along the Hudson river.
 
-[SFPC at the park](/images/IMG_4166.JPG)
+![SFPC at the park](/images/IMG_4166.JPG)
 
 Here's a link to my audio recording of most of Lauren's talk:
 
