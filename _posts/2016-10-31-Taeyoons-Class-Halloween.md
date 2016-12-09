@@ -11,7 +11,7 @@ Our second Politics of Computation class with Taeyoon. We discussed technology a
 
 <h2>On the Way to School</h2>
 
-From my walk to school today.*
+From my walk to school today.
 
 *Reminds me of Ingrid's walk-and-talk on internet infrastructure.*
 
