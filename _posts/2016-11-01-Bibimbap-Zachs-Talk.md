@@ -46,6 +46,7 @@ About 10 minutes later, Taeyoon asked me to go to the store and grab some eggs m
 Taeyoon had lot of things to cook: mushrooms, spinach, tofu, and vegetables of different types and kinds. Pretty soon I found myself helping locate and wash additional dishes, serving rice so that Taeyoon could plate food, dancing around Dannie and Ruby in the tiny kitchen, who were both performing in similar capacities.
 
 ![Cooking](/images/IMG_5266.jpg)
+
 ![Finished plate](/images/IMG_5267.jpg)
 
 Soon after there were 14 of us seated around our classroom table, chatting and eating and asking for more red pepper paste(it was good! just spicy enough). Ruby was kind enough to share some of her green curry chicken with me as well.
