@@ -27,7 +27,7 @@ From my walk to school today.
 
 -----
 
-<h2>Taeyoon's Clas</h2>
+<h2>Taeyoon's Class</h2>
 
 For last week's homework, Taeyoon assigned us 10 pages on [Jonathan Crary's "24/7"](https://www.amazon.com/dp/B00DQAQZMI/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), a book about work and time in the age of Late Capitalism, as well as a six-page reading of [Deleuze's "Postscript on Societies of Control"](https://cidadeinseguranca.files.wordpress.com/2012/02/deleuze_control.pdf).
 
