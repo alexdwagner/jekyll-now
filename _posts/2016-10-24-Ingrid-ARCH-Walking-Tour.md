@@ -74,6 +74,7 @@ Here's our happy class walking to the next location. Perfect weather today, sunn
 [Click here for tour audio at this location.](https://www.dropbox.com/s/xhduv6pt6i3vbhn/4%20-%20Orange%20Lines.wav?dl=0)
 
 ![Orange arrows](/images/IMG_4732.jpg)
+
 ![Orange arrows](/images/IMG_4735.jpg)
 
 Ingrid explained that these ubiquitous orange spray-paint markings signify to construction workers where internet cables and infrastructure are, under the street.
@@ -81,6 +82,7 @@ Ingrid explained that these ubiquitous orange spray-paint markings signify to co
 <h3>We also found an open manhole with a righteous mess of fiberoptic cables and whatnot</h3>
 
 ![Open manhole with internets exposed](/images/IMG_4799.jpg)
+
 ![Open manhole with internets exposed](/images/IMG_4806.jpg)
 
 -----
