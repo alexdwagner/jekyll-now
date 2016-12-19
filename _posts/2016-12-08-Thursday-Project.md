@@ -11,9 +11,7 @@ Met Taeyoon for coffee this afternoon. We had a really good talk, resulting in a
 
 <h2>Today</h2>
 
-
-
-<h2>I Saw This Pupper at 1:24 PM</h2>
+<h3>I Saw This Pupper at 1:24 PM</h3>
 
 He was anxious. Relateable.
 

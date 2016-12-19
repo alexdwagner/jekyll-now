@@ -39,7 +39,9 @@ After the tour, Taeyoon gave a fantastic workshop entitled, "How to Apply for Ar
 
 These may not make sense, but I'm including them anyway. In retrospect, I wish I'd recorded Taeyoon's talk but his github repo ["Tools for Artists"](https://github.com/tchoi8/ArtistToolKit) is a more than adequate document of this workshop.
 
-*SFPC as a “training wheels residency”(my words)
+```
+
+* SFPC as a “training wheels residency”(my words)
 - SFPC puts less pressure on production. most residencies focus on producing as much work as possible.
 
 * how do you “make a living” vs “making good work”
@@ -74,9 +76,13 @@ These may not make sense, but I'm including them anyway. In retrospect, I wish I
         * Cory Arcangel
     * REAL PEOPLE read your application. take your time to fill it out.*
 
+    ```
+
 We each created an artist bio, artist statement, and project description for our work. Here's my artist bio:
 
+```
   *Alex Wagner is a multi-disciplinary artist and writer focusing on documentation of educational experiences, and the archiving of those experiences. Mediums include blogging, field recording techniques, documentary filmmaking, and print media.*
+```
 
 Afterwards, the class went for a tour of Taeyoon's studio at Dark Matter, in downtown Brooklyn. I stayed behind and did Eyebeam work and hung out with Michael and Paula, departing Eyebeam interns and siblings-in-arms.
 

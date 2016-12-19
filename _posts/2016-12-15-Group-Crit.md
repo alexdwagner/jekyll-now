@@ -7,8 +7,6 @@ categories: group crit, showcase, maintenance, the space
 
 Today we had a group critique of our showcase projects. Afterwards, we repaired the aftermath of our installations with spackling tools.
 
-![xxxx](/images/IMG_xxxx.JPG)
-
 -----
 
 <h2>Today</h2>
@@ -43,7 +41,8 @@ Mostly pictures today. This is a catching-up post. I'll tell the story with imag
 
 I went second, after Adnan. We were allowed three minutes to talk about our project and our experience at the showcase. After that, we received feedback. Here's some of the suggestions I received. Forgive, the formatting - I copy/pasted from my notes.
 
-*sfpc blog project notes - PRINT ME - the path after school
+```
+sfpc blog project notes - PRINT ME - the path after school
 
 KEEP WORKING ON THIS
 - [ ] make html book
@@ -76,9 +75,12 @@ separate mediums
 
 online book format examples - eloquent javascript, book of shaders
 
-the physical part of the book can be minimal - html book*
+the physical part of the book can be minimal - html book
+
+```
 
 The feedback I received was almost all positive. I was told that my project played to my strengths - writing, photography, and documentation - and I believe that to be true.
+
 
 -----
 

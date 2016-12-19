@@ -7,13 +7,11 @@ categories: moving, Tuesday, IKEA
 
 Tuesday. Moving day. Mattia and I rented a Uhaul and went to IKEA, Jersey City, and all over Manhattan and Brooklyn. I now have a bed with sheets in an apartment with central air and a washer and dryer. Life's good, y'all. Lots of pictures from today.
 
-![xxxx](/images/IMG_xxxx.JPG)
-
 -----
 
 <h2>Today</h2>
 
-- Woke up at Caity's.
+- Woke up at Caity's in Clinton Hill.
 
 *Waiting for the train.*
 

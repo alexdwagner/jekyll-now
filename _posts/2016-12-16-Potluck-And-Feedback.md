@@ -11,7 +11,7 @@ Today was our last day at SFPC. We had a potluck-style lunch in the kitchen and 
 
 <h2>Today</h2>
 
-*Last day of school my vision be like*
+*How I Felt the Last Day of School*
 
 ![West Village](/images/IMG_7153.JPG)
 
