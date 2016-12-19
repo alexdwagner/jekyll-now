@@ -5,9 +5,9 @@ date:   2016-12-02 20:00:00 -0400
 categories: Friday, Ramsey Nasser, Radical Computation,
 ---
 
-![Vending machine](/images/IMG_6670.jpg)
-
 Had our seventh class with Ramsey. Then picked up a sweet car in Hoboken, and drove up to Poughkeepsie for a nice weekend.
+
+![Vending machine](/images/IMG_6670.jpg)
 
 -----
 

@@ -5,9 +5,9 @@ date:   2016-12-01 20:00:00 -0400
 categories: Thursday, Sleep No More, Eyebeam, internship
 ---
 
-![Never waste a nice day](/images/IMG_6628.jpg)
+Had breakfast in Bushwick with my cousin, Helen. Eyebeam internship, and then - [Sleep No More](http://sleepnomorenyc.com/#share)!
 
-Had breakfast in Bushwick with my cousin, Helen. Eyebeam internship, and then - [Sleep No More]()!
+![Never waste a nice day](/images/IMG_6628.jpg)
 
 -----
 

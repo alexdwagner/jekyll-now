@@ -5,9 +5,9 @@ date:   2016-11-26 20:00:00 -0400
 categories: parents, Met, art, sfpc, visiting
 ---
 
-![Selfie w parents](/images/IMG_6524.jpg)
-
 Went to the Met Museum with my parents. Showed them around SFPC, and then they took us out to a real nice dinner at a tapas place.
+
+![Selfie w parents](/images/IMG_6524.jpg)
 
 -----
 

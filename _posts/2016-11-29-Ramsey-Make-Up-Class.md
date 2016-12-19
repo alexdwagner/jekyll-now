@@ -5,9 +5,9 @@ date:   2016-11-29 20:00:00 -0400
 categories: ramsey, radical computer science, class, make-up
 ---
 
-![Ramsey's class](/images/IMG_6592.jpg)
-
 Make-up class for Ramsey's Radical Computer Science class today. Our sixth of eight classes with Ramsey. We talked about building a parser using Javascript.
+
+![Ramsey's class](/images/IMG_6592.jpg)
 
 -----
 

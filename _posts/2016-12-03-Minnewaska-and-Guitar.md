@@ -5,9 +5,9 @@ date:   2016-12-03 20:00:00 -0400
 categories: poughkeepsie, Minnewaska, guitar, Japanese food, Didi
 ---
 
-![Minnewaska waterfall](/images/IMG_6715.jpg)
-
 Today, sweetheart and I made breakfast, went to Minneswaska Falls, and I bought a guitar. Later, we made dinner and had a little party with our Airbnb hosts.
+
+![Minnewaska waterfall](/images/IMG_6715.jpg)
 
 -----
 

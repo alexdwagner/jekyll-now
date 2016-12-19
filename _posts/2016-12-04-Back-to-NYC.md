@@ -5,9 +5,9 @@ date:   2016-12-04 20:00:00 -0400
 categories: back to NYC, hoboken, selfie, cemetery lunch, picnic
 ---
 
-![lunch](/images/IMG_6746.jpg)
-
 Had a great porchside breakfast, packed up and said goodbye to our hosts, zoomed down the Taconic and we were back in NYC by late afternoon. Returned the car in Hoboken and traveled back to Brooklyn to get some sleep.
+
+![lunch](/images/IMG_6746.jpg)
 
 -----
 

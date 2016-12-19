@@ -5,6 +5,8 @@ date:   2016-11-28 20:00:00 -0400
 categories: Taeyoon, class, freelance, exhaustion
 ---
 
+We had Taeyoon's class today. The lecture was "Learning to Teach".
+
 ![Taeyoon's Class](/images/IMG_6562.JPG)
 
 -----

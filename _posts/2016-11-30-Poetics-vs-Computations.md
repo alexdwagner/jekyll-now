@@ -5,9 +5,9 @@ date:   2016-11-30 20:00:00 -0400
 categories: caitlin morris, arduino, Wednesday, exhaustion, rant
 ---
 
-![Dolce Vita rain](/images/IMG_6608.JPG)
-
 Today we had Caitlin Morris' arduino class. I was very tired and had trouble staying focused in class. Cold, cold rain, rain, rain.
+
+![Dolce Vita rain](/images/IMG_6608.JPG)
 
 -----
 

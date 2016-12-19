@@ -5,9 +5,9 @@ date:   2016-12-05 20:00:00 -0400
 categories: Ingrid Burrington, ARCH, Eyebeam, Internship
 ---
 
-![MTA](/images/IMG_6767.JPG)
-
 Today, we presented our "computational diaries" in Ingrid's class. Then, to Eyebeam to intern. Then, to do laundry and work on this blog.
+
+![MTA](/images/IMG_6767.JPG)
 
 -----
 

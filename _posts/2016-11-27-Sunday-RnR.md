@@ -5,9 +5,9 @@ date:   2016-11-27 20:00:00 -0400
 categories: frankel's, self-care, good food, ramen
 ---
 
-![Frankel's Pastrami](/images/IMG_6544.JPG)
-
 Sunday. The day I discovered [Frankel's Delicatessen](http://frankelsdelicatessen.com/) in Williamsburg. A day that I will forever cherish.
+
+![Frankel's Pastrami](/images/IMG_6544.JPG)
 
 -----
 
