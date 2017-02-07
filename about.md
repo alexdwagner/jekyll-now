@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a freelance film producer, video maker, and creative technologist.
+
+I wrote a book about working in freelance film production called [Don't Do What I Did](https://www.amazon.com/Dont-What-Did-Freelancing-Production-ebook/dp/B01J4H44TC).
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+You can see more of my work at [rtbsfilms.com](www.rtbsfilms.com)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[alex.wagner5@gmail.com](mailto:alex.wagner5@gmail.com)
